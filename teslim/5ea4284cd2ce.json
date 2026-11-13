@@ -1,1 +1,34 @@
-{"jobId":"5ea4284cd2ce","status":"failed","error":"Uretim ajani API kullanim limitine takildi (429, 5 saatlik limit; 18:40 UTC sifirlanir). Video uretilmedi, yeniden tetikleyin."}
+{
+ "jobId": "5ea4284cd2ce",
+ "status": "ready",
+ "videos": [
+  {
+   "path": "videos/2026-11-14/vidNEW7_carloan72.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/millioner-videos/main/videos/2026-11-14/vidNEW7_carloan72.mp4",
+   "title": "Is a 72-Month Car Loan a Trap?",
+   "description": "Borrow $30,000 at a hypothetical 7% APR: a 48-month loan costs about $4,483 in interest, a 72-month loan about $6,826. That is about $2,343 more for a smaller monthly payment. Rates and terms vary. Educational only, not financial advice. #carloan #personalfinance #shorts ",
+   "tags": [
+    "carloan",
+    "personalfinance",
+    "shorts"
+   ],
+   "publishAt": "2026-11-14T20:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-14/vidNEW7_canva100.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/millioner-videos/main/videos/2026-11-14/vidNEW7_canva100.mp4",
+   "title": "Over 100 Investors Said No to Canva",
+   "description": "Melanie Perkins pitched Canva to more than 100 investors, and it took about three years to raise funding. In 2021 Canva raised $200 million at a $40 billion valuation. #canva #entrepreneur #shorts ",
+   "tags": [
+    "canva",
+    "entrepreneur",
+    "shorts"
+   ],
+   "publishAt": "2026-11-15T01:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  }
+ ]
+}
