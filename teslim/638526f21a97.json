@@ -1,1 +1,96 @@
-{"jobId":"638526f21a97","status":"failed","error":"Uretim ajani API kullanim limitine takildi (429, 5 saatlik limit; 18:40 UTC sifirlanir). Video uretilmedi, yeniden tetikleyin."}
+{
+ "jobId": "638526f21a97",
+ "status": "ready",
+ "videos": [
+  {
+   "path": "videos/2026-11-14/TR_14Kas_01_beni_dusunuyor_musun.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/espanol-videos/main/videos/2026-11-14/TR_14Kas_01_beni_dusunuyor_musun.mp4",
+   "title": "“Beni düşünüyor musun?” İspanyolca nasıl denir? #ispanyolca #shorts ",
+   "description": "“Beni düşünüyor musun?” İspanyolca nasıl denir? ¿Piensas en mí? (PİEN-sas en Mİ) Bildiysen yorumlara yaz! Her gün yeni bir İspanyolca cümle için takip et. #ispanyolca #ispanyolcaöğren #ispanyolcaöğreniyorum #ispanyolcakelimeler #benidüşünüyormusun #yabancıdil #dilöğrenme #dilöğreniyorum #español #aprenderespañol #learnspanish #keşfet #shorts ",
+   "tags": [
+    "ispanyolca",
+    "ispanyolcaöğren",
+    "español",
+    "aprenderespañol",
+    "learnspanish",
+    "dilöğrenme",
+    "shorts"
+   ],
+   "publishAt": "2026-11-14T18:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-14/TR_14Kas_02_ne_zaman_gorusecegiz.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/espanol-videos/main/videos/2026-11-14/TR_14Kas_02_ne_zaman_gorusecegiz.mp4",
+   "title": "“Ne zaman görüşeceğiz?” İspanyolca nasıl denir? #ispanyolca #shorts ",
+   "description": "“Ne zaman görüşeceğiz?” İspanyolca nasıl denir? ¿Cuándo nos vamos a ver? (KUAN-do nos BA-mos a BER) Bildiysen yorumlara yaz! Her gün yeni bir İspanyolca cümle için takip et. #ispanyolca #ispanyolcaöğren #ispanyolcaöğreniyorum #ispanyolcakelimeler #nezamangörüşeceğiz #yabancıdil #dilöğrenme #dilöğreniyorum #español #aprenderespañol #learnspanish #keşfet #shorts ",
+   "tags": [
+    "ispanyolca",
+    "ispanyolcaöğren",
+    "español",
+    "aprenderespañol",
+    "learnspanish",
+    "dilöğrenme",
+    "shorts"
+   ],
+   "publishAt": "2026-11-14T19:30:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-14/TR_14Kas_03_neden_cevap_vermiyorsun.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/espanol-videos/main/videos/2026-11-14/TR_14Kas_03_neden_cevap_vermiyorsun.mp4",
+   "title": "“Neden cevap vermiyorsun?” İspanyolca nasıl denir? #ispanyolca #shorts ",
+   "description": "“Neden cevap vermiyorsun?” İspanyolca nasıl denir? ¿Por qué no me contestas? (por KE no me kon-TES-tas) Bildiysen yorumlara yaz! Her gün yeni bir İspanyolca cümle için takip et. #ispanyolca #ispanyolcaöğren #ispanyolcaöğreniyorum #ispanyolcakelimeler #nedencevapvermiyorsun #yabancıdil #dilöğrenme #dilöğreniyorum #español #aprenderespañol #learnspanish #keşfet #shorts ",
+   "tags": [
+    "ispanyolca",
+    "ispanyolcaöğren",
+    "español",
+    "aprenderespañol",
+    "learnspanish",
+    "dilöğrenme",
+    "shorts"
+   ],
+   "publishAt": "2026-11-14T21:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-14/TR_14Kas_04_sesini_duymak_istiyorum.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/espanol-videos/main/videos/2026-11-14/TR_14Kas_04_sesini_duymak_istiyorum.mp4",
+   "title": "“Sesini duymak istiyorum” İspanyolca nasıl denir? #ispanyolca #shorts ",
+   "description": "“Sesini duymak istiyorum” İspanyolca nasıl denir? Quiero escuchar tu voz. (KİE-ro es-ku-ÇAR tu BOS) Bildiysen yorumlara yaz! Her gün yeni bir İspanyolca cümle için takip et. #ispanyolca #ispanyolcaöğren #ispanyolcaöğreniyorum #ispanyolcakelimeler #sesiniduymakistiyorum #yabancıdil #dilöğrenme #dilöğreniyorum #español #aprenderespañol #learnspanish #keşfet #shorts ",
+   "tags": [
+    "ispanyolca",
+    "ispanyolcaöğren",
+    "español",
+    "aprenderespañol",
+    "learnspanish",
+    "dilöğrenme",
+    "shorts"
+   ],
+   "publishAt": "2026-11-14T22:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-14/TR_14Kas_05_benimle_kal.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/espanol-videos/main/videos/2026-11-14/TR_14Kas_05_benimle_kal.mp4",
+   "title": "“Benimle kal” İspanyolca nasıl denir? #ispanyolca #shorts ",
+   "description": "“Benimle kal” İspanyolca nasıl denir? Quédate aquí conmigo. (KE-da-te a-Kİ kon-Mİ-go) Bildiysen yorumlara yaz! Her gün yeni bir İspanyolca cümle için takip et. #ispanyolca #ispanyolcaöğren #ispanyolcaöğreniyorum #ispanyolcakelimeler #benimlekal #yabancıdil #dilöğrenme #dilöğreniyorum #español #aprenderespañol #learnspanish #keşfet #shorts ",
+   "tags": [
+    "ispanyolca",
+    "ispanyolcaöğren",
+    "español",
+    "aprenderespañol",
+    "learnspanish",
+    "dilöğrenme",
+    "shorts"
+   ],
+   "publishAt": "2026-11-14T23:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  }
+ ]
+}
