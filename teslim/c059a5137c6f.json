@@ -1,1 +1,80 @@
-{"jobId":"c059a5137c6f","status":"failed","error":"Uretim ajani API kullanim limitine takildi (429, 5 saatlik limit; 18:40 UTC sifirlanir). Video uretilmedi, yeniden tetikleyin."}
+{
+ "jobId": "c059a5137c6f",
+ "status": "ready",
+ "videos": [
+  {
+   "path": "videos/2026-11-14/SS_2026-11-14_1900_Short_RivalsS4.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/secret-spawn-videos/main/videos/2026-11-14/SS_2026-11-14_1900_Short_RivalsS4.mp4",
+   "title": "RIVALS Season 4 Changes Everything! 🔫 #roblox #shorts",
+   "description": "RIVALS Season 4, The Standard Season, was set to start Friday, November 13 at 9 PM ET. It brings a new battle pass, a rank reset, exclusive rewards and ranked improvements. New weapons have not been confirmed yet.\n\nEvent times are in Eastern Time and can change.\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxnews #rivals #shorts",
+   "tags": [
+    "roblox",
+    "robloxnews",
+    "rivals",
+    "shorts"
+   ],
+   "publishAt": "2026-11-14T19:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-14/SS_2026-11-14_2300_Long_NewsToday.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/secret-spawn-videos/main/videos/2026-11-14/SS_2026-11-14_2300_Long_NewsToday.mp4",
+   "title": "Roblox News Today: RIVALS Season 4, Free Plus Ending & 9 New Codes 🚨 #roblox",
+   "description": "Today's Roblox news: RIVALS Season 4 (The Standard Season) brings a new battle pass, a rank reset and ranked improvements, the free 6-month Roblox Plus grant for creators ends November 19, Timed Options can't be bought or extended from November 30, Studio 747 adds custom icons for models and folders, Studio MCP agents can now call Open Cloud, and 4 games have new codes.\n\nChapters:\n0:00 Intro\n0:16 RIVALS Season 4\n0:38 Free Roblox Plus Ends for Creators\n1:00 Timed Options Going Away\n1:16 Custom Icons in Studio\n1:34 Studio MCP + Open Cloud\n1:50 Do Not Stop Codes\n2:05 Anime Zero Codes\n2:19 Kontra + 30 Floors Up Codes\n2:36 Coming Up\n2:49 Outro\n\nCodes in this video:\nDo Not Stop: LASTSTOP (250 Credits), RELEASE (250 Credits), DONOTSTOP (200 Credits), ROUTE1610 (150 Credits)\nAnime Zero: ZODIAC (500 gems, 25 lucky spins + more), ARTIFACTS (100 relic shards + 25 tempering dust)\nKontra: 30KFAVORITES (75 Kredits), 2MILVISITS (75 Kredits)\n30 Floors Up: Update2 (30 gems + $900)\n\nCodes may expire at any time, so redeem them fast! Event times are in Eastern Time and can change.\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxnews #robloxcodes #robloxupdate",
+   "tags": [
+    "roblox",
+    "roblox news",
+    "roblox update",
+    "roblox codes",
+    "roblox studio",
+    "rivals season 4",
+    "roblox rivals",
+    "roblox plus",
+    "timed options",
+    "roblox studio mcp",
+    "do not stop codes",
+    "anime zero codes",
+    "kontra codes",
+    "30 floors up codes",
+    "secret spawn",
+    "roblox news today"
+   ],
+   "publishAt": "2026-11-14T23:00:00+03:00",
+   "format": "long",
+   "extra": {
+    "thumbnailUrl": "https://raw.githubusercontent.com/spR1nt23/secret-spawn-videos/main/videos/2026-11-14/SS_2026-11-14_2300_Long_NewsToday_thumb.png",
+    "language": "English",
+    "category": "Gaming"
+   }
+  },
+  {
+   "path": "videos/2026-11-14/SS_2026-11-15_0100_Short_NewCodes.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/secret-spawn-videos/main/videos/2026-11-14/SS_2026-11-15_0100_Short_NewCodes.mp4",
+   "title": "3 Roblox Codes That Just Dropped! 💎 #roblox #shorts",
+   "description": "3 new Roblox codes:\nDo Not Stop: LASTSTOP (250 Credits)\nAnime Zero: ZODIAC (500 gems, 25 lucky spins + more)\nKontra: 30KFAVORITES (75 Kredits)\n\nCodes may expire at any time, so redeem them fast!\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxcodes #shorts",
+   "tags": [
+    "roblox",
+    "robloxcodes",
+    "shorts"
+   ],
+   "publishAt": "2026-11-15T01:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-14/SS_2026-11-15_0300_Short_LateNightCodes.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/secret-spawn-videos/main/videos/2026-11-14/SS_2026-11-15_0300_Short_LateNightCodes.mp4",
+   "title": "Late Night Roblox Codes You Need! 🌙 #roblox #shorts",
+   "description": "3 more Roblox codes:\n30 Floors Up: Update2 (30 gems + $900)\nAnime Zero: ARTIFACTS (100 relic shards)\nKontra: 2MILVISITS (75 Kredits)\n\nCodes may expire at any time, so redeem them fast!\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxcodes #shorts",
+   "tags": [
+    "roblox",
+    "robloxcodes",
+    "shorts"
+   ],
+   "publishAt": "2026-11-15T03:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  }
+ ]
+}
