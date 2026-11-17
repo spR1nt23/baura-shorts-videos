@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05040b"/><stop offset=".7" stop-color="#1b1430"/><stop offset="1" stop-color="#0a0812"/></linearGradient>
+<radialGradient id="lamp" cx=".5" cy="0" r="1"><stop offset="0" stop-color="#d9ffe9" stop-opacity=".55"/><stop offset="1" stop-color="#d9ffe9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="url(#sky)"/>
+<circle cx="820" cy="300" r="90" fill="#e8e3c8" opacity=".85"/><circle cx="850" cy="285" r="90" fill="#0d0a18"/>
+<g fill="#000"><path d="M0 1150 L40 980 L80 1150 L110 900 L160 1150 L200 1010 L250 1150 L300 940 L340 1150Z"/><path d="M760 1150 L800 960 L840 1150 L880 900 L930 1150 L980 1000 L1030 1150 L1080 930 L1080 1150Z"/></g>
+<rect x="0" y="1150" width="1080" height="770" fill="#0b0a10"/>
+<path d="M0 1500 L1080 1380" stroke="#2a2633" stroke-width="10" stroke-dasharray="60 50"/>
+<rect x="150" y="760" width="780" height="70" fill="#1e2b26"/><rect x="150" y="760" width="780" height="70" fill="#9fffc7" opacity=".25"/>
+<text x="540" y="815" text-anchor="middle" font-family="Bebas Neue" font-size="64" fill="#cfffe2" opacity=".9">ROUTE 9 · GAS · 24H</text>
+<rect x="190" y="830" width="40" height="330" fill="#15131c"/><rect x="850" y="830" width="40" height="330" fill="#15131c"/>
+<rect x="150" y="830" width="780" height="360" fill="url(#lamp)"/>
+<rect x="300" y="960" width="120" height="190" rx="12" fill="#2d2a38"/><rect x="320" y="985" width="80" height="60" fill="#a8ffd0" opacity=".6"/>
+<rect x="640" y="960" width="120" height="190" rx="12" fill="#2d2a38"/><rect x="660" y="985" width="80" height="60" fill="#a8ffd0" opacity=".6"/>
+<rect x="380" y="1200" width="420" height="260" fill="#14121b"/><rect x="420" y="1240" width="340" height="180" fill="#d9ffe9" opacity=".55"/>
+<rect x="420" y="1240" width="340" height="180" fill="none" stroke="#08070c" stroke-width="10"/>
+<rect x="560" y="1285" width="34" height="100" rx="14" fill="#08070c"/><circle cx="577" cy="1270" r="22" fill="#08070c"/>
+<rect x="380" y="1190" width="420" height="20" fill="#08070c"/>
+</svg>

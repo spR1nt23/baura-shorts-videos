@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800"><defs><radialGradient id="glow" cx="45%" cy="45%" r="65%"><stop offset="0" stop-color="#4fe0a8" stop-opacity=".95"/><stop offset=".55" stop-color="#1f7a5c" stop-opacity=".7"/><stop offset="1" stop-color="#0b1410" stop-opacity="0"/></radialGradient><linearGradient id="wood" x1="0" x2="1"><stop offset="0" stop-color="#6b3f22"/><stop offset=".5" stop-color="#8a5530"/><stop offset="1" stop-color="#5a331b"/></linearGradient><clipPath id="scr"><rect x="-245" y="-200" width="420" height="380" rx="60"/></clipPath><radialGradient id="bg" cx="50%" cy="55%" r="70%"><stop offset="0" stop-color="#2b1d3a"/><stop offset="1" stop-color="#07050b"/></radialGradient></defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<g transform="translate(410 360) scale(.92)"><!-- Maçikuri: TV içindeki gölge yaratık -->
+<g id="tv">
+  <rect x="-300" y="-250" width="600" height="480" rx="70" fill="#2a1a12" stroke="#120a06" stroke-width="16"/>
+  <rect x="-300" y="-250" width="600" height="480" rx="70" fill="url(#wood)" opacity=".55"/>
+  <rect x="-245" y="-200" width="420" height="380" rx="60" fill="#0b1410" stroke="#050806" stroke-width="14"/>
+  <rect x="-245" y="-200" width="420" height="380" rx="60" fill="url(#glow)"/>
+  <g clip-path="url(#scr)">
+    <g fill="#9fe8c8" opacity=".10">
+      <rect x="-245" y="-160" width="420" height="4"/><rect x="-245" y="-90" width="420" height="3"/>
+      <rect x="-245" y="10" width="420" height="5"/><rect x="-245" y="120" width="420" height="3"/>
+    </g>
+    <!-- yaratık -->
+    <path d="M-200 200 C-210 40 -160 -110 -35 -120 C 90 -110 140 40 130 200 Z" fill="#050807"/>
+    <path d="M-150 -60 L-175 -150 L-110 -95 Z M 60 -95 L 95 -165 L 105 -70 Z" fill="#050807"/>
+    <circle cx="-95" cy="-15" r="46" fill="#f4ff9a"/><circle cx="-88" cy="-12" r="17" fill="#050807"/>
+    <circle cx="-80" cy="-20" r="5" fill="#fff"/>
+    <circle cx="40" cy="-5" r="24" fill="#ff3b3b"/><circle cx="43" cy="-3" r="8" fill="#050807"/>
+    <path d="M-150 70 Q-35 150 95 60" fill="none" stroke="#f4ff9a" stroke-width="10" stroke-linecap="round"/>
+    <g stroke="#f4ff9a" stroke-width="6" stroke-linecap="round">
+      <path d="M-125 78 l-6 22 M-95 95 l-3 24 M-62 106 l0 24 M-28 110 l2 24 M6 106 l4 23 M40 96 l6 22 M70 80 l8 20"/>
+    </g>
+  </g>
+  <circle cx="235" cy="-120" r="26" fill="#c9a36a" stroke="#120a06" stroke-width="8"/>
+  <circle cx="235" cy="-40" r="26" fill="#c9a36a" stroke="#120a06" stroke-width="8"/>
+  <g fill="#120a06"><rect x="210" y="40" width="50" height="8" rx="4"/><rect x="210" y="62" width="50" height="8" rx="4"/><rect x="210" y="84" width="50" height="8" rx="4"/></g>
+  <path d="M-80 -250 L-160 -380 M 60 -250 L 150 -370" stroke="#120a06" stroke-width="12" stroke-linecap="round"/>
+  <rect x="-230" y="230" width="60" height="40" rx="10" fill="#120a06"/><rect x="170" y="230" width="60" height="40" rx="10" fill="#120a06"/>
+</g></g>
+<text x="400" y="735" text-anchor="middle" font-family="Creepster" font-size="120" fill="#f4ff9a" stroke="#07050b" stroke-width="6" paint-order="stroke">MACIKURI</text>
+</svg>

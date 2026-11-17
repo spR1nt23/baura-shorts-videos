@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#030304"/>
+<g opacity=".35"><rect x="60" y="380" width="420" height="980" fill="#0d1311"/><rect x="0" y="1360" width="1080" height="560" fill="#0d0b0a"/></g>
+<g transform="translate(540 980)" fill="#000"><ellipse cx="0" cy="-420" rx="110" ry="170" fill="#050505"/>
+<path d="M-150 -300 Q0 -360 150 -300 L240 900 L-240 900Z" fill="#050505"/>
+<circle cx="-42" cy="-430" r="20" fill="#ff3b3b"/><circle cx="42" cy="-430" r="20" fill="#ff3b3b"/>
+<circle cx="-42" cy="-430" r="46" fill="#ff3b3b" opacity=".18"/><circle cx="42" cy="-430" r="46" fill="#ff3b3b" opacity=".18"/></g>
+<text x="540" y="1700" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">DON'T LOOK BEHIND YOU</text>
+</svg>

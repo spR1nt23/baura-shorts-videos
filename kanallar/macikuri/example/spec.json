@@ -1,0 +1,10 @@
+{"format":"short","voice":"bm_george","speed":0.92,
+"title":"The Night Shift Camera 😨 #scarystories #horror","description":"",
+"scenes":[
+{"svg_file":"s1.svg","move":"in","vo":"I used to work the night shift at a gas station off Route 9. Nobody ever came in after midnight."},
+{"svg_file":"s2.svg","move":"right","fx":["flicker"],"vo":"Then, at exactly three A.M., a man walked in. He didn't buy anything. He just stood by the freezer, staring at me."},
+{"svg_file":"s3.svg","move":"in","fx":["static"],"vo":"I glanced at the security monitor. In the feed, I wasn't alone. Something TALL was standing right behind me."},
+{"svg_file":"s4.svg","move":"in","fx":["shake"],"vo":"I didn't turn around. My voice cracked. Can I help you?"},
+{"svg_file":"s5.svg","move":"in","fx":["flicker"],"vo":"He leaned closer and whispered. Don't look. It only follows the ones who look."},
+{"svg_file":"s6.svg","move":"out","fx":["flicker","red"],"vo":"Then the lights went out. When they came back, he was gone. But the camera still shows it. Every night. Right behind me."}
+]}
