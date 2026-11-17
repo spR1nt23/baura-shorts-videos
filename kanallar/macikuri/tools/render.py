@@ -205,7 +205,7 @@ def main(spec_path, out_mp4):
         last = spec.get('total') and int(spec['episode']) >= int(spec['total'])
         txt = 'THE END' if last else f"PART {int(spec['episode']) + 1} {spec.get('next', 'TOMORROW')}"
         svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}"><rect width="{W}" height="{H}" fill="#050407"/>'
-               f'<text x="{W / 2}" y="{H / 2}" text-anchor="middle" font-family="Creepster" font-size="{int(150 * W / 1080)}" fill="#ff3b3b">{txt}</text>'
+               f'<text x="{W / 2}" y="{H / 2}" text-anchor="middle" font-family="Creepster" font-size="{int(118 * W / 1080)}" fill="#ff3b3b">{txt}</text>'
                + ('' if last else f'<text x="{W / 2}" y="{H / 2 + 130 * W / 1080}" text-anchor="middle" font-family="Bebas Neue" font-size="{int(70 * W / 1080)}" fill="#f4ff9a" letter-spacing="4">FOLLOW SO YOU DON\'T MISS IT</text>')
                + '</svg>')
         sp = os.path.join(tmp, 'end.svg'); open(sp, 'w').write(svg)
