@@ -143,7 +143,7 @@ def scene_clip(png, dur, move, fx, W, H, out):
         '-vf', ','.join(vf), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '19', '-an', out])
 
 
-def intro_clip(W, H, tmp, out):
+def intro_clip(W, H, tmp, out, label=''):
     """Entry: TV static, then Macikuri pops on screen (1.7 s)."""
     frag = open(os.path.join(HERE, 'creature.svgfrag')).read()
     scale = (W / 800) * (0.95 if H > W else 0.6)
@@ -153,7 +153,9 @@ def intro_clip(W, H, tmp, out):
            f'<rect width="{W}" height="{H}" fill="url(#bg)"/>'
            f'<g transform="translate({W / 2 + 10} {H * 0.45}) scale({scale})">{frag}</g>'
            f'<text x="{W / 2}" y="{H * 0.45 + 380 * scale}" text-anchor="middle" font-family="Creepster" '
-           f'font-size="{int(140 * W / 1080)}" fill="#f4ff9a" stroke="#07050b" stroke-width="7" paint-order="stroke">MACIKURI TV</text></svg>')
+           f'font-size="{int(140 * W / 1080)}" fill="#f4ff9a" stroke="#07050b" stroke-width="7" paint-order="stroke">MACIKURI TV</text>'
+           + (f'<text x="{W / 2}" y="{H * 0.45 + 520 * scale}" text-anchor="middle" font-family="Bebas Neue" font-size="{int(84 * W / 1080)}" '
+              f'fill="#ffffff" letter-spacing="6">{label.upper()}</text>' if label else '') + '</svg>')
     p = os.path.join(tmp, 'intro.svg'); open(p, 'w').write(svg)
     png = os.path.join(tmp, 'intro.png'); sh(['rsvg-convert', p, '-o', png])
     sh(['ffmpeg', '-y', '-loglevel', 'error',
@@ -176,7 +178,8 @@ def main(spec_path, out_mp4):
     aud = tts_scenes(scenes, spec.get('voice', 'bm_george'), float(spec.get('speed', 0.92)))
 
     clips = [os.path.join(tmp, 'c0.mp4')]
-    intro_a = intro_clip(W, H, tmp, clips[0])
+    label = f"{spec['series']} · PART {spec['episode']}" if spec.get('series') and spec.get('episode') else ''
+    intro_a = intro_clip(W, H, tmp, clips[0], label)
     t0 = len(intro_a) / SR
     voice = [np.zeros(len(intro_a), np.float32)]
     fxa = [intro_a]
@@ -196,6 +199,19 @@ def main(spec_path, out_mp4):
         fxa.append(pad)
         chunks += chunk_words([(t + w0, w) for w0, w in a['words']], t + a['dur'])
         t += a['dur']
+
+    # bölüm sonu kartı
+    if spec.get('episode'):
+        last = spec.get('total') and int(spec['episode']) >= int(spec['total'])
+        txt = 'THE END' if last else f"PART {int(spec['episode']) + 1} {spec.get('next', 'TOMORROW')}"
+        svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}"><rect width="{W}" height="{H}" fill="#050407"/>'
+               f'<text x="{W / 2}" y="{H / 2}" text-anchor="middle" font-family="Creepster" font-size="{int(150 * W / 1080)}" fill="#ff3b3b">{txt}</text>'
+               + ('' if last else f'<text x="{W / 2}" y="{H / 2 + 130 * W / 1080}" text-anchor="middle" font-family="Bebas Neue" font-size="{int(70 * W / 1080)}" fill="#f4ff9a" letter-spacing="4">FOLLOW SO YOU DON\'T MISS IT</text>')
+               + '</svg>')
+        sp = os.path.join(tmp, 'end.svg'); open(sp, 'w').write(svg)
+        png = os.path.join(tmp, 'end.png'); sh(['rsvg-convert', '-w', str(int(W * 1.25)), '-h', str(int(H * 1.25)), sp, '-o', png])
+        c = os.path.join(tmp, 'cend.mp4'); scene_clip(png, 1.8, 'in', ['flicker'], W, H, c); clips.append(c)
+        voice.append(np.zeros(int(1.8 * SR), np.float32)); fxa.append(np.concatenate([hit(1.2), np.zeros(int(0.6 * SR), np.float32)]))
 
     # audio mix
     v = np.concatenate(voice); f = np.concatenate(fxa)

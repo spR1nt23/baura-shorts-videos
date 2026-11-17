@@ -3,9 +3,20 @@
 İngilizce, animasyonlu korku hikâyeleri. YouTube: "Macikuri TV", Studio kanal `UCyAOn8nydPG6phjYMRs7i-Q`, Google hesabı asil.arica34.
 Maskot: Maçikuri — eski bir tüplü televizyonun içinde yaşayan gölge yaratık (tek gözü sarı, tek gözü kırmızı, dikişli gülüş). Her videonun girişinde (render.py otomatik ekler) televizyon parazitiyle belirir.
 
-## Günlük plan
-- 2 Short (45–58 sn). Saatler: targetDate 19:00 ve 23:00 (TR). İngilizce izleyici için ABD akşamına denk gelir.
-- Uzun video (8–12 dk, yatay) şimdilik YOK; Short'lar oturunca açılacak.
+## Haftalık dizi planı (EN ÖNEMLİ KURAL)
+Her hafta tek bir korku DİZİSİ: Pazartesi–Cumartesi her gün 2 bölüm (19:00 ve 23:00 TR) = 12 bölüm, Pazar 12:00'de final bölümü yoksa sadece birleşik video. **Pazar 20:00: haftanın bütün bölümleri tek uzun yatay video** ("<Dizi adı> (Full Story)").
+- Sezon planı `series/<YYYY>-W<hafta>-<slug>.md` dosyasında: bölüm tablosu (tarih/saat, olay, cliffhanger). O haftanın dosyası yoksa (Pazartesi) önce 12 bölümlük planı yaz ve pushla; sonra o günün bölümlerini üret. Plan tutarlı bir hikâye: sabit anlatıcı, sabit mekân(lar), kuralları olan bir tehdit, her bölüm yeni bir ipucu, 6. ve 9. bölümde büyük ters köşe, final döngüyle kapanır.
+- Her bölüm 40–55 sn, 4–6 sahne. İlk cümle önceki bölümü 1 cümlede hatırlatır ("Last night I found Walt's badge."). Son cümle = tablodaki cliffhanger.
+- spec.json'a `"series": "<Dizi adı>", "episode": N, "total": <toplam>` ekle → render.py girişe "<DİZİ> · PART N", sona "PART N+1 TOMORROW" (finalde "THE END") kartını koyar. Cumartesi 23:00 bölümünde `"next": "SUNDAY"`.
+- Çizim sürekliliği: aynı karakter her bölümde aynı renk/kıyafet/silüet; mekân SVG'lerini `series/<slug>/` altına kaydet ve sonraki bölümlerde yeniden kullan (kopyalayıp değiştir).
+- Dosyalar: `macikuri/<targetDate>/ep<NN>.mp4` (NN = bölüm no, iki hane).
+- Başlık: `<Dizi adı> — Part N 😨 #scarystories #horror` (finalde `FINAL`). Açıklamanın ilk satırı: "Part N of <Dizi adı>. New part every day at 7PM & 11PM (Turkey) — full story on Sunday."
+- Yayın: publishAt = targetDate 19:00 ve 23:00 (+03:00).
+
+### Pazar (targetDate Pazar ise)
+1. Final bölümü varsa üret (12:00).
+2. `python3 tools/compile.py /tmp/full.mp4 macikuri/<Pzt>/ep01.mp4 … macikuri/<Pazar>/epNN.mp4` (haftanın bütün bölümleri, sırayla; dosyalar depoda).
+3. `macikuri/<targetDate>/full.mp4` olarak pushla. format "long", publishAt targetDate 20:00, başlık `<Dizi adı> (Full Story) | Animated Horror Story`, açıklamada bölüm zamanları (chapters: 0:00 Part 1 …; her bölüm ~süresi), kapak: yoksa son bölümün en ürkütücü karesi (ffmpeg ile 1280x720 kare + "FULL STORY" yazısı) → extra.thumbnailUrl.
 
 ## Kurulum ve render
 ```
