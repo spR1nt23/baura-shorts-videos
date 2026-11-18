@@ -1,0 +1,60 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 4 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep04-s1.svg",
+   "move": "in",
+   "vo": "Last night I found Walt's old badge. The face in the photo was the man who warned me."
+  },
+  {
+   "svg_file": "ep04-s2.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "So tonight, I rewound the footage from camera three. Every night, the tall thing stood in the same aisle."
+  },
+  {
+   "svg_file": "ep04-s3.svg",
+   "move": "down",
+   "fx": [
+    "static"
+   ],
+   "vo": "But not in the same spot. Every night at three A.M., it took ONE step closer to the counter."
+  },
+  {
+   "svg_file": "s4.svg",
+   "move": "in",
+   "fx": [
+    "shake"
+   ],
+   "vo": "It started the night I looked. The night I glanced at the monitor."
+  },
+  {
+   "svg_file": "ep04-s5.svg",
+   "move": "in",
+   "fx": [
+    "static",
+    "flicker"
+   ],
+   "vo": "At three A.M., the lights buzzed. I watched the live feed. It lifted one long arm, slowly, toward the back of my head."
+  },
+  {
+   "svg_file": "ep04-s6.svg",
+   "move": "out",
+   "fx": [
+    "flicker",
+    "red"
+   ],
+   "vo": "I didn't turn around. I didn't breathe. Last night, it was an arm's length away. Tonight it was close enough to touch me."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 4,
+ "total": 10,
+ "next": "TONIGHT"
+}

@@ -1,0 +1,52 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 5 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "s1.svg",
+   "move": "in",
+   "vo": "Last night, the thing on the camera got close enough to touch me. Tonight, I came in early."
+  },
+  {
+   "svg_file": "ep05-s2.svg",
+   "move": "right",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Walt worked here before me. If anyone knew the rules, it was him. I lifted the old cash register off the counter."
+  },
+  {
+   "svg_file": "ep05-s3.svg",
+   "move": "in",
+   "vo": "Underneath, taped to the wood, was a folded note, yellow with age. The handwriting shook, like he wrote it in a hurry."
+  },
+  {
+   "svg_file": "ep05-s4.svg",
+   "move": "up",
+   "vo": "Rule one. Never look at the monitor after three. Rule two. When the lights go out, stay BEHIND the counter."
+  },
+  {
+   "svg_file": "ep05-s5.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Behind me, the monitor clicked on by itself. Camera three. For the first time all week, the aisle was EMPTY."
+  },
+  {
+   "svg_file": "ep05-s6.svg",
+   "move": "out",
+   "fx": [
+    "flicker",
+    "red"
+   ],
+   "vo": "My hands were shaking. I looked back at the note. There was one more line. Rule three was scratched out."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 5,
+ "total": 10
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect x="0" y="0" width="1080" height="160" fill="#0a0d10"/><rect x="200" y="120" width="680" height="24" fill="#e9fff2" opacity=".9"/>
+<rect x="0" y="160" width="1080" height="900" fill="#d9ffe9" opacity=".06"/>
+<rect x="0" y="1060" width="1080" height="860" fill="#2a2420"/><rect x="0" y="1060" width="1080" height="30" fill="#463c35"/>
+<g transform="rotate(-14 540 900)">
+<rect x="330" y="620" width="420" height="380" rx="20" fill="#3b3631"/><rect x="370" y="660" width="340" height="120" fill="#0d2a1b"/>
+<text x="540" y="745" text-anchor="middle" font-family="Bebas Neue" font-size="70" fill="#5bd18f" opacity=".8">0.00</text>
+<g fill="#1f1b18"><rect x="380" y="820" width="60" height="44"/><rect x="460" y="820" width="60" height="44"/><rect x="540" y="820" width="60" height="44"/><rect x="620" y="820" width="60" height="44"/>
+<rect x="380" y="890" width="60" height="44"/><rect x="460" y="890" width="60" height="44"/><rect x="540" y="890" width="60" height="44"/><rect x="620" y="890" width="60" height="44"/></g>
+</g>
+<g fill="#c9b8a6"><path d="M250 1060 Q270 960 340 940 L380 990 Q340 1040 320 1100Z"/><path d="M830 980 Q810 880 740 870 L700 920 Q740 960 760 1030Z"/></g>
+<rect x="400" y="1040" width="300" height="40" fill="#0a0806" opacity=".8"/>
+<rect x="470" y="1050" width="140" height="70" fill="#e9dfb8" transform="rotate(4 540 1085)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#030304"/>
+<rect x="0" y="0" width="1080" height="1920" fill="#a8ffd0" opacity=".03"/>
+<g transform="translate(700 520)" fill="#050505"><ellipse cx="0" cy="0" rx="130" ry="200"/><path d="M-170 140 Q0 70 170 140 L240 900 L-240 900Z"/>
+<circle cx="-44" cy="-10" r="18" fill="#ff3b3b"/><circle cx="44" cy="-10" r="18" fill="#ff3b3b"/>
+<circle cx="-44" cy="-10" r="44" fill="#ff3b3b" opacity=".16"/><circle cx="44" cy="-10" r="44" fill="#ff3b3b" opacity=".16"/></g>
+<g transform="translate(470 1060)">
+<path d="M-250 420 Q-240 170 -120 130 L120 130 Q240 170 250 420Z" fill="#1e3a33"/>
+<rect x="-40" y="60" width="80" height="90" fill="#c9b8a6"/>
+<ellipse cx="0" cy="-30" rx="130" ry="150" fill="#1a1412"/>
+<path d="M-130 -10 Q-145 40 -120 70 L-110 20Z" fill="#c9b8a6"/><path d="M130 -10 Q145 40 120 70 L110 20Z" fill="#c9b8a6"/>
+</g>
+<g fill="#000"><path d="M760 760 Q700 820 640 880 L610 860 Q680 790 730 730Z"/>
+<path d="M640 880 Q600 900 560 910" stroke="#000" stroke-width="16" stroke-linecap="round" fill="none"/>
+<path d="M630 870 Q590 870 552 862" stroke="#000" stroke-width="14" stroke-linecap="round" fill="none"/>
+<path d="M625 860 Q595 845 565 825" stroke="#000" stroke-width="13" stroke-linecap="round" fill="none"/>
+<path d="M645 885 Q620 925 600 950" stroke="#000" stroke-width="13" stroke-linecap="round" fill="none"/></g>
+<text x="540" y="1700" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">DON'T TURN AROUND</text>
+</svg>

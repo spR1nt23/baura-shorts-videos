@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#070709"/>
+<rect x="90" y="520" width="900" height="820" rx="70" fill="#25211d" stroke="#0d0b09" stroke-width="16"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#1a2a1f"/>
+<g opacity=".9"><rect x="150" y="580" width="780" height="620" rx="40" fill="#8fd9a8" opacity=".18"/>
+<path d="M150 1200 L470 860 L610 860 L930 1200Z" fill="#132019"/>
+<path d="M170 600 L470 760 L470 860 L170 1180Z" fill="#0f1a14"/><path d="M910 600 L610 760 L610 860 L910 1180Z" fill="#0f1a14"/>
+<g stroke="#2f5c4d" stroke-width="6" opacity=".8"><path d="M170 720 L470 790"/><path d="M170 880 L470 820"/><path d="M170 1040 L470 845"/><path d="M910 720 L610 790"/><path d="M910 880 L610 820"/><path d="M910 1040 L610 845"/></g>
+<rect x="470" y="740" width="140" height="120" fill="#a8ffd0" opacity=".12"/>
+<g transform="translate(540 860)" fill="#000"><ellipse cx="0" cy="-118" rx="15" ry="24"/><path d="M-20 -100 Q0 -108 20 -100 L32 0 L-32 0Z"/>
+<circle cx="-5" cy="-120" r="3" fill="#ff3b3b"/><circle cx="5" cy="-120" r="3" fill="#ff3b3b"/></g></g>
+<g fill="#cfe" opacity=".12"><rect x="150" y="640" width="780" height="4"/><rect x="150" y="760" width="780" height="3"/><rect x="150" y="900" width="780" height="5"/><rect x="150" y="1060" width="780" height="3"/></g>
+<text x="190" y="650" font-family="Bebas Neue" font-size="44" fill="#d9ffe9" opacity=".8">CAM 3   03:00:12</text>
+<circle cx="880" cy="635" r="12" fill="#ff3b3b"/>
+<rect x="430" y="1240" width="220" height="60" rx="10" fill="#151210"/>
+</svg>

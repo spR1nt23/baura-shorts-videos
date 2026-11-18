@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#070709"/>
+<g transform="translate(190 330)"><rect width="700" height="300" rx="20" fill="#1a2a1f" stroke="#25211d" stroke-width="14"/>
+<rect width="700" height="300" rx="20" fill="#8fd9a8" opacity=".15"/>
+<path d="M0 300 L300 150 L400 150 L700 300Z" fill="#132019"/>
+<path d="M0 0 L300 110 L300 150 L0 300Z" fill="#0f1a14"/><path d="M700 0 L400 110 L400 150 L700 300Z" fill="#0f1a14"/>
+<g transform="translate(350 150.0) scale(1)" fill="#000"><ellipse cx="0" cy="-58" rx="8" ry="13"/><path d="M-11 -48 Q0 -52 11 -48 L17 0 L-17 0Z"/>
+<circle cx="-3" cy="-60" r="1.8" fill="#ff3b3b"/><circle cx="3" cy="-60" r="1.8" fill="#ff3b3b"/></g>
+<text x="24" y="44" font-family="Bebas Neue" font-size="38" fill="#d9ffe9" opacity=".85">CAM 3 · NIGHT 1 · 03:00</text></g>
+<g transform="translate(190 670)"><rect width="700" height="300" rx="20" fill="#1a2a1f" stroke="#25211d" stroke-width="14"/>
+<rect width="700" height="300" rx="20" fill="#8fd9a8" opacity=".15"/>
+<path d="M0 300 L300 150 L400 150 L700 300Z" fill="#132019"/>
+<path d="M0 0 L300 110 L300 150 L0 300Z" fill="#0f1a14"/><path d="M700 0 L400 110 L400 150 L700 300Z" fill="#0f1a14"/>
+<g transform="translate(350 190.0) scale(1.8)" fill="#000"><ellipse cx="0" cy="-58" rx="8" ry="13"/><path d="M-11 -48 Q0 -52 11 -48 L17 0 L-17 0Z"/>
+<circle cx="-3" cy="-60" r="1.8" fill="#ff3b3b"/><circle cx="3" cy="-60" r="1.8" fill="#ff3b3b"/></g>
+<text x="24" y="44" font-family="Bebas Neue" font-size="38" fill="#d9ffe9" opacity=".85">CAM 3 · NIGHT 2 · 03:00</text></g>
+<g transform="translate(190 1010)"><rect width="700" height="300" rx="20" fill="#1a2a1f" stroke="#25211d" stroke-width="14"/>
+<rect width="700" height="300" rx="20" fill="#8fd9a8" opacity=".15"/>
+<path d="M0 300 L300 150 L400 150 L700 300Z" fill="#132019"/>
+<path d="M0 0 L300 110 L300 150 L0 300Z" fill="#0f1a14"/><path d="M700 0 L400 110 L400 150 L700 300Z" fill="#0f1a14"/>
+<g transform="translate(350 235.0) scale(2.7)" fill="#000"><ellipse cx="0" cy="-58" rx="8" ry="13"/><path d="M-11 -48 Q0 -52 11 -48 L17 0 L-17 0Z"/>
+<circle cx="-3" cy="-60" r="1.8" fill="#ff3b3b"/><circle cx="3" cy="-60" r="1.8" fill="#ff3b3b"/></g>
+<text x="24" y="44" font-family="Bebas Neue" font-size="38" fill="#d9ffe9" opacity=".85">CAM 3 · NIGHT 3 · 03:00</text></g>
+<text x="910" y="660" text-anchor="end" font-family="Creepster" font-size="56" fill="#f4ff9a" opacity=".9">+1 STEP</text>
+<text x="910" y="1000" text-anchor="end" font-family="Creepster" font-size="56" fill="#f4ff9a" opacity=".9">+1 STEP</text>
+</svg>

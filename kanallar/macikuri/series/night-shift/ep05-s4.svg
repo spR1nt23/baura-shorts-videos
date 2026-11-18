@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#120f0d"/>
+<rect x="0" y="0" width="1080" height="1920" fill="#d9ffe9" opacity=".04"/>
+<g transform="rotate(-2 540 900)">
+<rect x="150" y="380" width="780" height="900" fill="#e9dfb8"/>
+<path d="M150 830 L930 830" stroke="#bfb38c" stroke-width="5"/><path d="M540 380 L540 1280" stroke="#bfb38c" stroke-width="4"/>
+<rect x="150" y="380" width="780" height="900" fill="#7a5b2a" opacity=".16"/>
+<text x="540" y="500" text-anchor="middle" font-family="Creepster" font-size="96" fill="#2a2018">THE RULES</text>
+<text x="200" y="650" font-family="Bebas Neue" font-size="62" fill="#2a2018">1. NEVER LOOK AT THE MONITOR</text>
+<text x="240" y="720" font-family="Bebas Neue" font-size="62" fill="#2a2018">AFTER 3 A.M.</text>
+<text x="200" y="890" font-family="Bebas Neue" font-size="62" fill="#2a2018">2. WHEN THE LIGHTS GO OUT,</text>
+<text x="240" y="960" font-family="Bebas Neue" font-size="62" fill="#2a2018">STAY BEHIND THE COUNTER.</text>
+
+<text x="820" y="1250" font-family="Creepster" font-size="64" fill="#2a2018" opacity=".8">W.</text>
+</g>
+</svg>
