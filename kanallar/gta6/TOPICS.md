@@ -21,3 +21,8 @@
 - 2026-11-19 | gta6_1: Açılış günü "oyun açılmıyor" kontrolü — PS5 sistem yazılımı 14.23 zorunlu (17 Kas, sadece güvenlik düzeltmesi), ikinci ön-çıkış yaması 01.002.001 (~602.5 MB PS5 / ~1.6 GB Xbox, yama notu yok), Rockstar day-one yamasını doğrulamadı | Kotaku, Push Square, Android Authority, Tech Times, Vice
 - 2026-11-19 | gta6_2: The Game Awards 2026 adayları (17 Kas) — GTA 6 8 adaylıkla lider, GOTY dahil; Manni L. Perez (Lucia) Best Performance; rakipler Ocarina of Time, RE Requiem, 007 First Light, Control Resonant, Phantom Blade Zero; tören 10 Ara | Variety, VGC, Push Square, CBC, Notebookcheck
 - 2026-11-19 | gta6_3: Metacritic sahte kullanıcı yorumları — çıkış öncesi kullanıcı puanı ~6.5'e düştü, Metacritic yorumları sildi ve yeni yorumları geçici engelledi; normalde çıkıştan 36 saat sonra açılır | VGC, VGTimes, LibertyCity
+
+## 2026-11-20 (yayın 20 Kas 16:00, 21:00, 21 Kas 02:00)
+- 2026-11-20 | gta6_1: Twitch rekoru — SullyGnome ~3.29M eşzamanlı izleyici (bölgesel açılışın ilk saatleri), önceki tek oyun rekoru LoL 3.1M (6 Kas 2022); tüm platformlar StreamsCharts ön veri ~6.4M; Twitch resmi doğrulamadı | Dot Esports, esports.gg, LibertyCity
+- 2026-11-20 | gta6_2: Eleştirmen incelemeleri (18 Kas) — Metacritic 99, Ocarina of Time ile en yüksek puana ortak; IGN & GameSpot 10/10; Bloomberg "best-reviewed ever"; en yaygın eleştiri 30 FPS sınırı | Bloomberg, Vice, Dot Esports
+- 2026-11-20 | gta6_3: Para — Sensor Tower tahmini ~$1.54B dijital ön sipariş (17 Kas, ~15.88M kopya, ~%75 PlayStation); GTA 5 ilk gün $815.7M; Take-Two resmi satış açıklamadı | CNN, Forbes, Yahoo Finance
