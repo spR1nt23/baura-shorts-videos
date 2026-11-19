@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="t" cx=".5" cy=".2" r=".7"><stop offset="0" stop-color="#d9ffe9" stop-opacity=".9"/><stop offset=".35" stop-color="#a8ffd0" stop-opacity=".35"/><stop offset="1" stop-color="#05040b" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect width="1080" height="1920" fill="url(#t)"/>
+<rect x="160" y="300" width="760" height="44" rx="22" fill="#eafff3"/><rect x="130" y="290" width="40" height="64" fill="#2a2633"/><rect x="910" y="290" width="40" height="64" fill="#2a2633"/>
+<g transform="rotate(3 540 900)">
+<path d="M220 520 L860 520 L860 1160 L820 1180 L770 1150 L720 1190 L660 1155 L600 1185 L540 1150 L480 1190 L420 1150 L360 1185 L300 1150 L250 1180 L220 1160Z" fill="#f2ebc6" opacity=".92"/>
+<path d="M220 520 L860 520 L860 1160 L820 1180 L770 1150 L720 1190 L660 1155 L600 1185 L540 1150 L480 1190 L420 1150 L360 1185 L300 1150 L250 1180 L220 1160Z" fill="#a8ffd0" opacity=".12"/>
+<g fill="#2a2018" opacity=".35" font-family="Bebas Neue" font-size="54"><text x="270" y="620">1. NEVER LOOK AT THE MONITOR</text><text x="270" y="720">2. WHEN THE LIGHTS GO OUT</text></g>
+<text x="270" y="930" font-family="Bebas Neue" font-size="96" fill="#1a120c">3. NEVER LET IT</text>
+<g stroke="#120c08" stroke-width="10" stroke-linecap="round" fill="none" opacity=".45"><path d="M250 900 Q420 870 600 905 Q720 925 830 890"/><path d="M260 935 Q440 900 640 935 L830 905"/></g>
+<text x="760" y="1060" font-family="Creepster" font-size="80" fill="#1a120c" opacity=".6">. . .</text>
+</g>
+<g fill="#c9b8a6"><path d="M180 1180 Q210 1080 300 1070 L330 1120 Q300 1170 270 1240 L190 1280Z"/><path d="M900 1150 Q870 1060 780 1050 L750 1100 Q790 1150 810 1220 L890 1260Z"/></g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="l" cx=".7" cy=".55" r=".7"><stop offset="0" stop-color="#2d4a3c"/><stop offset="1" stop-color="#05040b"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="url(#l)"/>
+<g transform="translate(420 820) scale(.85)">
+<path d="M-260 -60 Q-270 -380 0 -400 Q270 -380 260 -60 Q250 260 0 330 Q-250 260 -260 -60Z" fill="#c9b8a6"/>
+<path d="M-260 -60 Q-270 -380 0 -400 Q270 -380 260 -60 Q250 260 0 330 Q-250 260 -260 -60Z" fill="#a8ffd0" opacity=".15"/>
+<path d="M-280 -120 Q-260 -470 0 -470 Q260 -470 280 -120 Q200 -330 0 -330 Q-200 -330 -280 -120Z" fill="#1a1412"/>
+<ellipse cx="-100" cy="-40" rx="60" ry="46" fill="#f5f2ea"/><ellipse cx="100" cy="-40" rx="60" ry="46" fill="#f5f2ea"/>
+<circle cx="-80" cy="-38" r="13" fill="#0b0b0b"/><circle cx="120" cy="-38" r="13" fill="#0b0b0b"/>
+<path d="M-170 -110 Q-100 -130 -40 -100 M40 -100 Q100 -130 170 -110" stroke="#1a1412" stroke-width="14" fill="none" stroke-linecap="round"/>
+<ellipse cx="10" cy="170" rx="34" ry="20" fill="#2a1513"/>
+</g>
+<rect x="640" y="1020" width="360" height="230" rx="24" fill="#2b2620" stroke="#0d0b09" stroke-width="10"/>
+<rect x="760" y="1050" width="200" height="90" rx="8" fill="#a8ffd0" opacity=".8"/>
+<circle cx="710" cy="1150" r="50" fill="#0d0b09"/>
+<g transform="rotate(-12 300 1250)"><rect x="160" y="1150" width="230" height="300" rx="14" fill="#d8d2c2"/><rect x="160" y="1150" width="230" height="60" rx="14" fill="#2f5c4d"/>
+<rect x="205" y="1230" width="140" height="140" fill="#8d8b86"/><ellipse cx="275" cy="1290" rx="34" ry="44" fill="#c9c2b4"/>
+<text x="275" y="1420" text-anchor="middle" font-family="Bebas Neue" font-size="44" fill="#1a1412">WALT</text></g>
+<g stroke="#d9ffe9" stroke-width="6" fill="none" opacity=".5"><path d="M620 1080 q-30 50 0 100"/><path d="M590 1050 q-50 80 0 160"/></g>
+</svg>

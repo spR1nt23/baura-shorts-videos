@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="c" cx=".5" cy=".15" r=".75"><stop offset="0" stop-color="#d9ffe9" stop-opacity=".35"/><stop offset="1" stop-color="#d9ffe9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect width="1080" height="1920" fill="url(#c)"/>
+<path d="M540 0 V240" stroke="#2a2633" stroke-width="8"/>
+<rect x="340" y="240" width="400" height="40" rx="20" fill="#eafff3"/>
+<path d="M0 1080 L1080 1080 L1080 1920 L0 1920Z" fill="#101418"/>
+<g fill="#1d1c22"><ellipse cx="540" cy="560" rx="62" ry="76" fill="#1a1412"/><path d="M445 650 Q540 625 635 650 L660 940 L590 940 L580 1080 L500 1080 L490 940 L420 940Z"/></g>
+<path d="M500 1080 L250 1560 L420 1600 L580 1080Z" fill="#000" opacity=".85"/>
+<path d="M500 1080 L700 1580 L870 1530 L580 1080Z" fill="#000" opacity=".85"/>
+<circle cx="335" cy="1560" r="48" fill="#000" opacity=".9"/><circle cx="790" cy="1560" r="48" fill="#000" opacity=".9"/>
+<text x="540" y="430" text-anchor="middle" font-family="Bebas Neue" font-size="64" fill="#f4ff9a" opacity=".85">1 LIGHT · 2 SHADOWS</text>
+</svg>

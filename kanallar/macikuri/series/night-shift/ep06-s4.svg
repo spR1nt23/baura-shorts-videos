@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="r" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#1f3a2e"/><stop offset="1" stop-color="#05040b"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="url(#r)"/>
+<rect x="120" y="520" width="840" height="760" rx="50" fill="#2b2620" stroke="#0d0b09" stroke-width="16"/>
+<g fill="#0d0b09"><circle cx="330" cy="900" r="160"/></g>
+<g fill="#3a352e"><circle cx="270" cy="840" r="14"/><circle cx="330" cy="840" r="14"/><circle cx="390" cy="840" r="14"/><circle cx="240" cy="900" r="14"/><circle cx="300" cy="900" r="14"/><circle cx="360" cy="900" r="14"/><circle cx="420" cy="900" r="14"/><circle cx="270" cy="960" r="14"/><circle cx="330" cy="960" r="14"/><circle cx="390" cy="960" r="14"/></g>
+<rect x="560" y="640" width="330" height="200" rx="14" fill="#a8ffd0" opacity=".8"/>
+<text x="725" y="770" text-anchor="middle" font-family="Bebas Neue" font-size="110" fill="#14241b">CH 09</text>
+<path d="M580 1010 L610 960 L640 1060 L670 930 L700 1080 L730 950 L760 1040 L790 980 L820 1020 L860 1010" stroke="#a8ffd0" stroke-width="8" fill="none"/>
+<circle cx="640" cy="1170" r="40" fill="#0d0b09"/><circle cx="800" cy="1170" r="40" fill="#0d0b09"/>
+<g stroke="#d9ffe9" stroke-width="7" fill="none" opacity=".6"><path d="M80 820 q-40 80 0 160"/><path d="M40 780 q-60 120 0 240"/><path d="M1000 820 q40 80 0 160"/><path d="M1040 780 q60 120 0 240"/></g>
+<text x="540" y="440" text-anchor="middle" font-family="Creepster" font-size="90" fill="#f4ff9a" opacity=".9">"DON'T READ IT..."</text>
+</svg>

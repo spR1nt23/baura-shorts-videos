@@ -1,0 +1,56 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 7 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep06-s4.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night, Walt's voice came through a dead radio. He said I had already looked once."
+  },
+  {
+   "svg_file": "ep07-s2.svg",
+   "move": "in",
+   "vo": "So at two fifty nine, I hid in the back storeroom. No cameras back there. No monitor. Nothing to look at."
+  },
+  {
+   "svg_file": "ep07-s3.svg",
+   "move": "in",
+   "vo": "There's an old cracked mirror above the mop sink. I checked it, just to be sure. Only me. NOTHING behind me."
+  },
+  {
+   "svg_file": "ep07-s4.svg",
+   "move": "down",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "At three A.M., the light above me buzzed and dimmed. My shadow stretched long across the concrete floor."
+  },
+  {
+   "svg_file": "ep07-s5.svg",
+   "move": "in",
+   "fx": [
+    "flicker",
+    "shake"
+   ],
+   "vo": "Then I noticed. There was only ONE light. But there were TWO shadows. And both of them were mine."
+  },
+  {
+   "svg_file": "ep07-s6.svg",
+   "move": "out",
+   "fx": [
+    "flicker",
+    "red"
+   ],
+   "vo": "I didn't move. I kept my arms pressed flat against my sides. One of my shadows waved."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 7,
+ "total": 10
+}

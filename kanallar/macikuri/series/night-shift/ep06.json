@@ -1,0 +1,60 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 6 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep05-s6.svg",
+   "move": "in",
+   "vo": "Last night I found Walt's rules under the register. Rule three was scratched out."
+  },
+  {
+   "svg_file": "ep06-s2.svg",
+   "move": "up",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "So I held the note up to the fluorescent light. Under the scratches, I could read four words. Never let it... The rest was torn away."
+  },
+  {
+   "svg_file": "ep06-s3.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Then the old radio on the shelf crackled to life. It hadn't been plugged in for YEARS."
+  },
+  {
+   "svg_file": "ep06-s4.svg",
+   "move": "in",
+   "fx": [
+    "static",
+    "shake"
+   ],
+   "vo": "A voice came through the static. Slow. Tired. Don't read it out loud, kid."
+  },
+  {
+   "svg_file": "ep06-s5.svg",
+   "move": "left",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "I knew that voice. I had seen his face on the badge. I whispered, Walt? How do I finish rule three?"
+  },
+  {
+   "svg_file": "ep06-s6.svg",
+   "move": "out",
+   "fx": [
+    "static",
+    "red"
+   ],
+   "vo": "On the monitor, the tall thing stood right behind me. The radio went quiet. Then Walt laughed, very softly. He said: you already looked once."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 6,
+ "total": 10,
+ "next": "TONIGHT"
+}
