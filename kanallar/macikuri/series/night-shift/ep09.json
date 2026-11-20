@@ -1,0 +1,60 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 9 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep08-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night I watched Walt's last tape. He looked straight through the camera. At me."
+  },
+  {
+   "svg_file": "ep09-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "When I ejected it, something slid out of the tape box. A torn scrap of paper. The missing half of rule three."
+  },
+  {
+   "svg_file": "ep09-s3.svg",
+   "move": "up",
+   "vo": "Never let it see you LEAVE. The ink was smeared, like Walt's hand had been shaking when he wrote it."
+  },
+  {
+   "svg_file": "ep09-s4.svg",
+   "move": "in",
+   "fx": [
+    "static",
+    "flicker"
+   ],
+   "vo": "At five fifty nine, my shift was almost over. I knew I shouldn't, but I checked the monitor. On CAM 1, the tall thing was standing by the front door. Waiting."
+  },
+  {
+   "svg_file": "ep09-s5.svg",
+   "move": "in",
+   "fx": [
+    "flicker",
+    "shake"
+   ],
+   "vo": "I grabbed my keys and pushed the door. It wouldn't move. I never locked it. NOBODY had."
+  },
+  {
+   "svg_file": "ep09-s6.svg",
+   "move": "out",
+   "fx": [
+    "red"
+   ],
+   "vo": "I pushed until my hands went numb. Outside, the sky turned orange. The sun came up. The door was still locked."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 9,
+ "total": 10,
+ "next": "SUNDAY"
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="f" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#d9ffe9" stop-opacity=".18"/><stop offset="1" stop-color="#d9ffe9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#120f0d"/>
+<rect width="1080" height="1920" fill="url(#f)"/>
+<g transform="rotate(4 540 900)">
+<rect x="220" y="520" width="640" height="720" rx="20" fill="#15131c" stroke="#0d0b09" stroke-width="14"/>
+<path d="M220 520 L860 520 L800 380 L280 380Z" fill="#22202a" stroke="#0d0b09" stroke-width="12"/>
+<rect x="260" y="560" width="560" height="640" rx="12" fill="#0b0a10"/>
+<g transform="rotate(-10 540 860)"><path d="M320 720 L760 700 L770 820 L720 830 L740 900 L660 880 L620 960 L560 900 L480 950 L440 880 L360 910 L330 850Z" fill="#e9dfb8"/>
+<path d="M320 720 L760 700 L770 820 L720 830 L740 900 L660 880 L620 960 L560 900 L480 950 L440 880 L360 910 L330 850Z" fill="#7a5b2a" opacity=".18"/>
+<text x="540" y="810" text-anchor="middle" font-family="Bebas Neue" font-size="72" fill="#2a2018">...SEE YOU LEAVE.</text></g>
+</g>
+<g fill="#c9b8a6"><path d="M140 1300 Q200 1200 300 1220 L330 1280 Q270 1320 220 1380 L140 1400Z"/></g>
+<text x="540" y="320" text-anchor="middle" font-family="Creepster" font-size="88" fill="#f4ff9a" opacity=".9">THE MISSING HALF</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="m" cx=".5" cy=".45" r=".45"><stop offset="0" stop-color="#d9ffe9" stop-opacity=".22"/><stop offset="1" stop-color="#d9ffe9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<g fill="#000"><path d="M0 1400 L70 300 L150 1400Z"/><path d="M120 1400 L200 420 L280 1400Z"/><path d="M800 1400 L880 380 L960 1400Z"/><path d="M930 1400 L1010 300 L1080 1400Z"/></g>
+<ellipse cx="540" cy="1230" rx="460" ry="120" fill="#101418"/>
+<rect width="1080" height="1920" fill="url(#m)"/>
+<g stroke="#3a352e" stroke-width="12" stroke-linecap="round"><path d="M540 960 L420 1240"/><path d="M540 960 L660 1240"/><path d="M540 960 L540 1260"/></g>
+<rect x="520" y="930" width="40" height="40" fill="#2b2620"/>
+<g transform="translate(540 860)">
+<rect x="-150" y="-90" width="260" height="170" rx="18" fill="#2b2620" stroke="#0d0b09" stroke-width="10"/>
+<rect x="110" y="-50" width="90" height="100" rx="10" fill="#3a352e" stroke="#0d0b09" stroke-width="10"/>
+<circle cx="200" cy="0" r="40" fill="#0d0b09"/><circle cx="200" cy="0" r="22" fill="#1b2a24"/><circle cx="208" cy="-8" r="6" fill="#d9ffe9" opacity=".6"/>
+<rect x="-120" y="-130" width="150" height="40" rx="8" fill="#22202a"/>
+<circle cx="-110" cy="-60" r="9" fill="#ff3b3b" opacity=".4"/>
+<g fill="#2f5c4d" opacity=".7"><path d="M-150 -90 q60 30 120 0 v20 q-60 30 -120 0Z"/><path d="M-50 80 q50 -20 100 0 v-10 q-50 -20 -100 0Z"/></g>
+</g>
+<path d="M200 600 Q260 640 230 700 M880 640 Q820 690 860 740" stroke="#15131c" stroke-width="10" fill="none"/>
+<text x="540" y="560" text-anchor="middle" font-family="Bebas Neue" font-size="70" fill="#f4ff9a" opacity=".85">HALF A MILE IN</text>
+</svg>

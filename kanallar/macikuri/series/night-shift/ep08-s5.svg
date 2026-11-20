@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="g" cx=".5" cy=".42" r=".55"><stop offset="0" stop-color="#a8ffd0" stop-opacity=".3"/><stop offset="1" stop-color="#a8ffd0" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#101418"/>
+<g fill="#2b2620" stroke="#0d0b09" stroke-width="6"><rect x="90" y="1000" width="200" height="250"/><rect x="800" y="1040" width="210" height="210"/></g>
+<rect x="0" y="1250" width="1080" height="670" fill="#0b0a10"/>
+<rect width="1080" height="1920" fill="url(#g)"/>
+<rect x="330" y="1050" width="420" height="200" fill="#2b2620" stroke="#0d0b09" stroke-width="8"/>
+<rect x="200" y="460" width="680" height="600" rx="50" fill="#25211d" stroke="#0d0b09" stroke-width="16"/>
+<rect x="250" y="510" width="500" height="420" rx="30" fill="#1a2a1f"/>
+<rect x="250" y="510" width="500" height="420" rx="30" fill="#8fd9a8" opacity=".2"/>
+<rect x="270" y="800" width="460" height="110" fill="#0c140f"/>
+<g transform="translate(470 760)"><ellipse cx="0" cy="-40" rx="34" ry="42" fill="#5e6b62"/>
+<path d="M-70 40 Q0 0 70 40 L80 70 L-80 70Z" fill="#0c140f"/></g>
+<g transform="translate(600 700)" fill="#000"><ellipse cx="0" cy="-90" rx="30" ry="46"/><path d="M-40 -50 Q0 -70 40 -50 L60 210 L-60 210Z"/>
+<circle cx="-10" cy="-94" r="5" fill="#ff3b3b"/><circle cx="10" cy="-94" r="5" fill="#ff3b3b"/></g>
+<g fill="#cfe" opacity=".14"><rect x="250" y="580" width="500" height="4"/><rect x="250" y="700" width="500" height="3"/><rect x="250" y="850" width="500" height="5"/></g>
+<text x="270" y="560" font-family="Bebas Neue" font-size="38" fill="#d9ffe9" opacity=".85">PLAY ▶ 11-21-98 03:00</text>
+<g fill="#0d0b09"><circle cx="810" cy="620" r="26"/><circle cx="810" cy="720" r="26"/></g>
+<rect x="790" y="800" width="40" height="100" rx="6" fill="#0d0b09"/>
+</svg>

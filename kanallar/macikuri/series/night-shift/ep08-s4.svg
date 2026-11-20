@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="f" cx=".5" cy=".45" r=".5"><stop offset="0" stop-color="#f4ff9a" stop-opacity=".2"/><stop offset="1" stop-color="#f4ff9a" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#07070a"/>
+<rect width="1080" height="1920" fill="url(#f)"/>
+<rect x="160" y="520" width="760" height="700" rx="40" fill="#2b2620" stroke="#0d0b09" stroke-width="16"/>
+<rect x="220" y="600" width="640" height="420" rx="16" fill="#0d0b09"/>
+<g transform="rotate(-8 540 820)">
+<rect x="260" y="640" width="560" height="340" rx="14" fill="#15131c" stroke="#3a352e" stroke-width="8"/>
+<circle cx="400" cy="860" r="56" fill="#22202a" stroke="#3a352e" stroke-width="8"/><circle cx="680" cy="860" r="56" fill="#22202a" stroke="#3a352e" stroke-width="8"/>
+<circle cx="400" cy="860" r="14" fill="#0d0b09"/><circle cx="680" cy="860" r="14" fill="#0d0b09"/>
+<rect x="300" y="670" width="480" height="110" fill="#e9dfb8"/>
+<text x="540" y="745" text-anchor="middle" font-family="Bebas Neue" font-size="80" fill="#2a2018">11-21-98 · W.</text>
+</g>
+<g fill="#c9b8a6"><path d="M120 1260 Q180 1150 280 1170 L320 1230 Q260 1270 210 1330 L120 1360Z"/><path d="M960 1240 Q900 1150 800 1170 L770 1230 Q830 1270 870 1320 L960 1350Z"/></g>
+<text x="540" y="430" text-anchor="middle" font-family="Creepster" font-size="88" fill="#f4ff9a" opacity=".9">HIS LAST NIGHT</text>
+</svg>

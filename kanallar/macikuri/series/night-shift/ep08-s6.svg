@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="110" y="400" width="860" height="1000" rx="70" fill="#25211d" stroke="#0d0b09" stroke-width="18"/>
+<rect x="170" y="460" width="740" height="860" rx="40" fill="#1a2a1f"/>
+<rect x="170" y="460" width="740" height="860" rx="40" fill="#8fd9a8" opacity=".18"/>
+<g transform="translate(700 620)" fill="#000"><ellipse cx="0" cy="0" rx="90" ry="140"/><path d="M-120 110 Q0 60 120 110 L170 700 L-170 700Z"/>
+<circle cx="-30" cy="-6" r="12" fill="#ff3b3b"/><circle cx="30" cy="-6" r="12" fill="#ff3b3b"/>
+<circle cx="-30" cy="-6" r="32" fill="#ff3b3b" opacity=".18"/><circle cx="30" cy="-6" r="32" fill="#ff3b3b" opacity=".18"/></g>
+<g transform="translate(470 880)"><ellipse cx="0" cy="0" rx="130" ry="165" fill="#c9c2b4"/>
+<ellipse cx="-50" cy="-20" rx="28" ry="20" fill="#f5f2ea"/><ellipse cx="50" cy="-20" rx="28" ry="20" fill="#f5f2ea"/>
+<circle cx="-50" cy="-20" r="11" fill="#0b0b0b"/><circle cx="50" cy="-20" r="11" fill="#0b0b0b"/>
+<path d="M-90 -70 Q-50 -80 -20 -62 M20 -62 Q50 -80 90 -70" stroke="#3a2f2a" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M-40 90 Q0 80 40 90" stroke="#3a2f2a" stroke-width="7" fill="none"/>
+<path d="M-240 440 Q-220 200 -90 170 L0 260 L90 170 Q220 200 240 440Z" fill="#1d1c22"/><path d="M-70 165 L0 260 L70 165" fill="#c9c2b4"/></g>
+<g fill="#cfe" opacity=".12"><rect x="170" y="560" width="740" height="5"/><rect x="170" y="760" width="740" height="3"/><rect x="170" y="980" width="740" height="6"/><rect x="170" y="1180" width="740" height="3"/></g>
+<text x="200" y="520" font-family="Bebas Neue" font-size="44" fill="#d9ffe9" opacity=".85">11-21-98  03:00:12</text><circle cx="860" cy="505" r="12" fill="#ff3b3b"/>
+<text x="540" y="320" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">AT ME</text>
+</svg>

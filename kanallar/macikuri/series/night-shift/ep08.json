@@ -1,0 +1,56 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 8 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep07-s6.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Last night, in the storeroom, one of my shadows waved at me. I didn't sleep after that."
+  },
+  {
+   "svg_file": "ep08-s2.svg",
+   "move": "up",
+   "vo": "So before my shift, I took a flashlight into the woods behind the station. Walt had to be out there SOMEWHERE."
+  },
+  {
+   "svg_file": "ep08-s3.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Half a mile in, I found a clearing. An old video camera stood on a rusted tripod, pointed straight back at the gas station."
+  },
+  {
+   "svg_file": "ep08-s4.svg",
+   "move": "in",
+   "vo": "There was still a tape inside. The label said November twenty first, nineteen ninety eight. Walt's LAST night."
+  },
+  {
+   "svg_file": "ep08-s5.svg",
+   "move": "right",
+   "fx": [
+    "static"
+   ],
+   "vo": "Back at work, I played it on the old TV in the storeroom. Walt, alone at the counter, at three A.M. And the tall thing, right behind him."
+  },
+  {
+   "svg_file": "ep08-s6.svg",
+   "move": "out",
+   "fx": [
+    "static",
+    "red"
+   ],
+   "vo": "Then Walt slowly turned his head. Not toward the thing behind him. On the tape, Walt was looking at the camera. At ME."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 8,
+ "total": 10,
+ "next": "TONIGHT"
+}
