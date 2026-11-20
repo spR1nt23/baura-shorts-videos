@@ -26,3 +26,8 @@
 - 2026-11-20 | gta6_1: Twitch rekoru — SullyGnome ~3.29M eşzamanlı izleyici (bölgesel açılışın ilk saatleri), önceki tek oyun rekoru LoL 3.1M (6 Kas 2022); tüm platformlar StreamsCharts ön veri ~6.4M; Twitch resmi doğrulamadı | Dot Esports, esports.gg, LibertyCity
 - 2026-11-20 | gta6_2: Eleştirmen incelemeleri (18 Kas) — Metacritic 99, Ocarina of Time ile en yüksek puana ortak; IGN & GameSpot 10/10; Bloomberg "best-reviewed ever"; en yaygın eleştiri 30 FPS sınırı | Bloomberg, Vice, Dot Esports
 - 2026-11-20 | gta6_3: Para — Sensor Tower tahmini ~$1.54B dijital ön sipariş (17 Kas, ~15.88M kopya, ~%75 PlayStation); GTA 5 ilk gün $815.7M; Take-Two resmi satış açıklamadı | CNN, Forbes, Yahoo Finance
+
+## 2026-11-21 (yayın 21 Kas 16:00, 21:00, 22 Kas 02:00)
+- 2026-11-21 | gta6_1: 2022 sızıntı hacker'ı Arion Kurtaj (21) 16 Kas'ta Woolwich Crown Court'ta suçunu kabul etti (Rockstar, Uber, Revolut, BT/EE); ~90 klip, Rockstar zararı ~$5M + binlerce mesai saati; ceza 23 Kas | UK CPS, Kotaku, TechSpot, TweakTown
+- 2026-11-21 | gta6_2: Discord x GTA VI (16 Kas) — ücretsiz Vice City renk teması, uygulama ikonu, isim stili; herkese 13 Ara'ya kadar, Nitro reportedly 20 Şub 2027'ye kadar; Ayarlar > Görünüm | Discord (X), Dexerto, Beebom, Final Weapon
+- 2026-11-21 | gta6_3: PC sürümü ne zaman? — sadece PS5/Xbox Series X|S, Rockstar PC tarihi açıklamadı; Mart Launcher güncellemesi sadece hayran spekülasyonu; RDR2 ~13 ay / GTA 5 ~19 ay farkına göre 2027 sonu–2028 tahmini (resmi değil) | Rockstar, Windows Report, GamingBible, PCGamesN
