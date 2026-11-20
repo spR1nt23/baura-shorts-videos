@@ -1,0 +1,38 @@
+{
+ "jobId": "c679c4919ea3",
+ "status": "ready",
+ "videos": [
+  {
+   "path": "videos/2026-11-21/vidNEW7_401k2027.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/millioner-videos/main/videos/2026-11-21/vidNEW7_401k2027.mp4",
+   "title": "Your 401(k) Limit Just Went Up for 2027",
+   "description": "The IRS raised the 2027 employee 401(k) contribution limit to $25,500, up $1,000 from $24,500 in 2026 (IR-2026-136, Nov 12, 2026). A hypothetical extra $1,000 a year at 7% for 30 years could grow to about $94K; plans vary. Educational only, not financial advice. #401k #personalfinance #shorts ",
+   "tags": [
+    "401k",
+    "2027 401k limit",
+    "retirement savings",
+    "personal finance",
+    "IRS"
+   ],
+   "publishAt": "2026-11-21T20:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-21/vidNEW7_dell1000.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/millioner-videos/main/videos/2026-11-21/vidNEW7_dell1000.mp4",
+   "title": "Michael Dell Started With $1,000 in a Dorm Room",
+   "description": "In 1984, 19-year-old Michael Dell started PC's Limited with $1,000 from his University of Texas dorm room. By 1992, at 27, he was the youngest CEO on the Fortune 500. #michaeldell #entrepreneur #shorts ",
+   "tags": [
+    "Michael Dell",
+    "Dell",
+    "entrepreneur",
+    "founder story",
+    "startup"
+   ],
+   "publishAt": "2026-11-22T01:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  }
+ ]
+}
