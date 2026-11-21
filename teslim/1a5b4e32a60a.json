@@ -1,0 +1,42 @@
+{
+  "jobId": "1a5b4e32a60a",
+  "status": "ready",
+  "videos": [
+    {
+      "path": "videos/2026-11-22/race1_world.mp4",
+      "url": "https://raw.githubusercontent.com/spR1nt23/flag-race-videos/main/videos/2026-11-22/race1_world.mp4",
+      "title": "30 Countries, Only 1 Winner | Marble Race",
+      "description": "30 countries race through 5 rounds of obstacles - only one survives! Which country were you cheering for? Comment your country and it might be in the next race.\n\n#marblerace #countries #flags #countryballs #shorts ",
+      "tags": [],
+      "publishAt": "2026-11-22T15:00:00+03:00",
+      "format": "short",
+      "extra": {
+        "studio_track": "Bunny Hop"
+      }
+    },
+    {
+      "path": "videos/2026-11-22/race2_americas.mp4",
+      "url": "https://raw.githubusercontent.com/spR1nt23/flag-race-videos/main/videos/2026-11-22/race2_americas.mp4",
+      "title": "Americas Marble Race - Which Country Wins?",
+      "description": "23 countries race through 5 rounds of obstacles - only one survives! Which country were you cheering for? Comment your country and it might be in the next race.\n\n#marblerace #countries #flags #countryballs #shorts ",
+      "tags": [],
+      "publishAt": "2026-11-22T20:00:00+03:00",
+      "format": "short",
+      "extra": {
+        "studio_track": "Snake on the Beach"
+      }
+    },
+    {
+      "path": "videos/2026-11-22/race3_world.mp4",
+      "url": "https://raw.githubusercontent.com/spR1nt23/flag-race-videos/main/videos/2026-11-22/race3_world.mp4",
+      "title": "Will Your Country Survive? | Country Marble Race",
+      "description": "30 countries race through 5 rounds of obstacles - only one survives! Which country were you cheering for? Comment your country and it might be in the next race.\n\n#marblerace #countries #flags #countryballs #shorts ",
+      "tags": [],
+      "publishAt": "2026-11-22T23:30:00+03:00",
+      "format": "short",
+      "extra": {
+        "studio_track": "If I Had a Chicken"
+      }
+    }
+  ]
+}
