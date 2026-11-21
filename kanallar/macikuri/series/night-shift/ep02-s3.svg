@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#070709"/>
+<rect x="90" y="520" width="900" height="820" rx="70" fill="#25211d" stroke="#0d0b09" stroke-width="16"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#1a2a1f"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#8fd9a8" opacity=".18"/>
+<rect x="180" y="640" width="150" height="330" fill="#0f1a14" stroke="#2f5c4d" stroke-width="5"/><rect x="195" y="660" width="120" height="290" fill="#a8ffd0" opacity=".1"/>
+<g transform="translate(450 900)"><circle cx="0" cy="-90" r="38" fill="#1a1412"/><path d="M-70 -40 Q0 -70 70 -40 L80 90 L-80 90Z" fill="#1e3a33"/></g>
+<g transform="translate(600 790)" fill="#000"><ellipse cx="0" cy="-110" rx="46" ry="70"/><path d="M-60 -60 Q0 -90 60 -60 L95 300 L-95 300Z"/><circle cx="-16" cy="-115" r="7" fill="#ff3b3b"/><circle cx="16" cy="-115" r="7" fill="#ff3b3b"/></g>
+<rect x="190" y="980" width="700" height="140" fill="#0c140f"/>
+<g fill="#cfe" opacity=".12"><rect x="150" y="640" width="780" height="4"/><rect x="150" y="760" width="780" height="3"/><rect x="150" y="900" width="780" height="5"/><rect x="150" y="1060" width="780" height="3"/></g>
+<rect x="430" y="1240" width="220" height="60" rx="10" fill="#151210"/>
+<text x="190" y="640" font-family="Bebas Neue" font-size="44" fill="#d9ffe9" opacity=".85">CAM 1   11-17  03:00:00</text>
+<text x="890" y="640" text-anchor="end" font-family="Bebas Neue" font-size="44" fill="#f4ff9a">REW &lt;&lt;</text>
+<text x="540" y="420" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">REWIND</text>
+</svg>

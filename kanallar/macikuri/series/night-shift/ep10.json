@@ -1,0 +1,57 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — FINAL 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep09-s6.svg",
+   "move": "in",
+   "vo": "Last night I tried to leave. The sun came up. The door was still locked."
+  },
+  {
+   "svg_file": "ep06-s4.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Then the dead radio crackled. Walt's voice. Somebody has to stay, kid. Somebody has to WATCH."
+  },
+  {
+   "svg_file": "ep10-s3.svg",
+   "move": "in",
+   "fx": [
+    "static",
+    "flicker"
+   ],
+   "vo": "I looked up at the monitor. The counter was empty. I was standing right there, but the camera couldn't SEE me anymore."
+  },
+  {
+   "svg_file": "ep10-s4.svg",
+   "move": "in",
+   "vo": "A week later, a sign went up in the window. Now hiring. Night shift. Then a nervous kid showed up."
+  },
+  {
+   "svg_file": "ep10-s5.svg",
+   "move": "in",
+   "fx": [
+    "static",
+    "flicker"
+   ],
+   "vo": "At three A.M., I watched him glance at the monitor. Behind him stood a tall black shape. And right next to it… ME."
+  },
+  {
+   "svg_file": "ep10-s6.svg",
+   "move": "out",
+   "fx": [
+    "flicker",
+    "red"
+   ],
+   "vo": "So I walked up behind him, the way Walt once did for me. I leaned close to his ear and whispered. Don't look."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 10,
+ "total": 10
+}

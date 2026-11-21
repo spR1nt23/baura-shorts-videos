@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="l" cx=".5" cy=".35" r=".8"><stop offset="0" stop-color="#2d3a35"/><stop offset="1" stop-color="#05040b"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="url(#l)"/>
+<g transform="translate(820 1000)"><path d="M-120 -260 Q120 -300 200 -100 L200 400 L-60 400 Q-140 100 -120 -260Z" fill="#3b2a1f"/>
+<path d="M-110 -40 Q-170 -60 -170 10 Q-170 80 -110 70Z" fill="#c9b8a6"/><path d="M-60 300 L200 300 L200 600 L-100 600Z" fill="#7a5a2a"/></g>
+<g transform="translate(400 880)">
+<path d="M-240 -60 Q-250 -360 0 -380 Q250 -360 240 -60 Q230 240 0 310 Q-230 240 -240 -60Z" fill="#b9b2a6"/>
+<path d="M-260 -110 Q-240 -450 0 -450 Q240 -450 260 -110 Q190 -310 0 -310 Q-190 -310 -260 -110Z" fill="#1a1412"/>
+<ellipse cx="-90" cy="-40" rx="62" ry="30" fill="#0a0a0a"/><ellipse cx="90" cy="-40" rx="62" ry="30" fill="#0a0a0a"/>
+<circle cx="-90" cy="-40" r="6" fill="#ff3b3b"/><circle cx="90" cy="-40" r="6" fill="#ff3b3b"/>
+<path d="M-150 -110 L-40 -90 M40 -90 L150 -110" stroke="#1a1412" stroke-width="14" stroke-linecap="round"/>
+<path d="M-60 170 Q0 150 60 170" stroke="#2a1513" stroke-width="10" fill="none"/>
+<path d="M-200 300 Q-180 260 -80 250 L0 330 L80 250 Q180 260 200 300 L220 600 L-220 600Z" fill="#1e3a33"/>
+</g>
+<g stroke="#d9ffe9" stroke-width="6" fill="none" opacity=".45"><path d="M520 1050 q30 -20 60 0"/><path d="M540 1090 q40 -30 80 0"/></g>
+<text x="540" y="330" text-anchor="middle" font-family="Creepster" font-size="110" fill="#f4ff9a" opacity=".92">DON'T LOOK</text>
+</svg>

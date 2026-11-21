@@ -1,0 +1,55 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 3 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep02-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night I rewound the tapes. The stranger was never there. Only the tall thing was."
+  },
+  {
+   "svg_file": "ep03-s2.svg",
+   "move": "in",
+   "vo": "At five A.M., I called my boss. I asked who worked nights before me. He went quiet for a long time."
+  },
+  {
+   "svg_file": "ep03-s3.svg",
+   "move": "up",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Then he said, in ninety eight, a night cashier vanished. Mid shift. His locker is still in the back. Nobody ever OPENED it."
+  },
+  {
+   "svg_file": "ep03-s4.svg",
+   "move": "in",
+   "fx": [
+    "shake"
+   ],
+   "vo": "The lock was rusted. I broke it with a tire iron. Inside, there was dust, an old jacket, and a plastic BADGE."
+  },
+  {
+   "svg_file": "ep04-s1.svg",
+   "move": "in",
+   "vo": "Route 9 staff. Walt. Night shift, nineteen ninety eight. The photo was faded, so I wiped it with my thumb."
+  },
+  {
+   "svg_file": "s5.svg",
+   "move": "out",
+   "fx": [
+    "flicker",
+    "red"
+   ],
+   "vo": "The pale skin. The tired eyes. I knew that face. The photo on the badge… was the man."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 3,
+ "total": 10
+}

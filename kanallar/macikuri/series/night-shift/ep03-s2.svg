@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="g" cx=".5" cy=".42" r=".7"><stop offset="0" stop-color="#2d3a35"/><stop offset="1" stop-color="#05040b"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="url(#g)"/>
+<rect x="340" y="520" width="400" height="640" rx="40" fill="#2b2620" stroke="#0d0b09" stroke-width="14"/>
+<rect x="390" y="580" width="300" height="120" rx="12" fill="#a8ffd0" opacity=".75"/>
+<text x="540" y="672" text-anchor="middle" font-family="Bebas Neue" font-size="86" fill="#14241b">05:02 AM</text>
+<g fill="#151210"><circle cx="440" cy="780" r="30"/><circle cx="540" cy="780" r="30"/><circle cx="640" cy="780" r="30"/><circle cx="440" cy="870" r="30"/><circle cx="540" cy="870" r="30"/><circle cx="640" cy="870" r="30"/><circle cx="440" cy="960" r="30"/><circle cx="540" cy="960" r="30"/><circle cx="640" cy="960" r="30"/></g>
+<text x="540" y="1100" text-anchor="middle" font-family="Bebas Neue" font-size="54" fill="#d9ffe9" opacity=".7">CALLING: BOSS</text>
+<path d="M740 820 C900 860 880 1000 800 1040 C720 1080 760 1180 860 1200" stroke="#0d0b09" stroke-width="14" fill="none"/>
+<g transform="rotate(-20 830 1230)"><rect x="740" y="1180" width="200" height="90" rx="40" fill="#1a1716"/></g>
+<g stroke="#d9ffe9" stroke-width="7" fill="none" opacity=".5"><path d="M280 760 q-40 80 0 160"/><path d="M240 720 q-60 120 0 240"/></g>
+<text x="540" y="420" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">LONG SILENCE</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0b0d0f"/>
+<g fill="#1f2a27" stroke="#0d0b09" stroke-width="10"><rect x="120" y="420" width="260" height="940"/><rect x="410" y="420" width="260" height="940"/><rect x="700" y="420" width="260" height="940"/></g>
+<g stroke="#0d0b09" stroke-width="6"><path d="M160 480 h180 M160 510 h180 M160 540 h180"/><path d="M740 480 h180 M740 510 h180 M740 540 h180"/></g>
+<path d="M450 480 h180 M450 510 h180 M450 540 h180" stroke="#0d0b09" stroke-width="6"/>
+<rect x="450" y="620" width="180" height="70" fill="#d8d2c2"/><text x="540" y="676" text-anchor="middle" font-family="Bebas Neue" font-size="60" fill="#1a1412">W.</text>
+<rect x="610" y="860" width="34" height="70" rx="6" fill="#6b4a2a"/><path d="M612 860 q0 -40 15 -40 q15 0 15 40" stroke="#6b4a2a" stroke-width="10" fill="none"/>
+<g fill="#3a352e" opacity=".5"><circle cx="500" cy="760" r="5"/><circle cx="560" cy="1000" r="4"/><circle cx="470" cy="1120" r="6"/></g>
+<rect x="0" y="1360" width="1080" height="560" fill="#08070c"/>
+<rect x="390" y="0" width="300" height="1360" fill="#d9ffe9" opacity=".06"/>
+<text x="540" y="320" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">NEVER OPENED</text>
+</svg>

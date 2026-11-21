@@ -1,0 +1,58 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Night Shift — Part 2 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "s6.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Last night, a stranger whispered, don't look. Then the lights went out, and he was gone."
+  },
+  {
+   "svg_file": "s1.svg",
+   "move": "in",
+   "vo": "The next night, I came in early. I needed to see him again, on tape. I needed PROOF."
+  },
+  {
+   "svg_file": "ep02-s3.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "I rewound camera one to three A.M. There I was, behind the counter. Alone."
+  },
+  {
+   "svg_file": "s2.svg",
+   "move": "right",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "But I remembered him clearly. He stood by the freezer for ten whole minutes, staring at me."
+  },
+  {
+   "svg_file": "ep02-s5.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "On the tape, the freezer aisle was EMPTY. The door chime never rang. Nobody walked in. Nobody walked out."
+  },
+  {
+   "svg_file": "ep02-s6.svg",
+   "move": "out",
+   "fx": [
+    "static",
+    "red"
+   ],
+   "vo": "I watched every second, twice. Every second, something tall stood behind me. The man was never there. Only IT was."
+  }
+ ],
+ "series": "The Night Shift",
+ "episode": 2,
+ "total": 10
+}

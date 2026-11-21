@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#070709"/>
+<rect x="90" y="520" width="900" height="820" rx="70" fill="#25211d" stroke="#0d0b09" stroke-width="16"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#1a2a1f"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#8fd9a8" opacity=".18"/>
+<g transform="translate(720 760)" fill="#000"><ellipse cx="0" cy="-110" rx="50" ry="76"/><path d="M-64 -56 Q0 -90 64 -56 L100 330 L-100 330Z"/><circle cx="-16" cy="-115" r="8" fill="#ff3b3b"/><circle cx="16" cy="-115" r="8" fill="#ff3b3b"/></g>
+<g transform="translate(560 860)"><ellipse cx="0" cy="-90" rx="44" ry="54" fill="#c9c2b4" opacity=".75"/><path d="M-40 -130 Q0 -160 40 -130 L44 -100 Q0 -125 -44 -100Z" fill="#1a1412"/>
+<ellipse cx="-16" cy="-90" rx="9" ry="6" fill="#0b0b0b"/><ellipse cx="16" cy="-90" rx="9" ry="6" fill="#0b0b0b"/>
+<path d="M-80 -30 Q0 -55 80 -30 L90 120 L-90 120Z" fill="#1e3a33" opacity=".8"/></g>
+<g transform="translate(400 930)"><circle cx="0" cy="-90" r="40" fill="#3b2a1f"/><path d="M-72 -40 Q0 -70 72 -40 L82 90 L-82 90Z" fill="#7a5a2a"/></g>
+<rect x="190" y="980" width="700" height="140" fill="#0c140f"/>
+<g fill="#cfe" opacity=".12"><rect x="150" y="640" width="780" height="4"/><rect x="150" y="760" width="780" height="3"/><rect x="150" y="900" width="780" height="5"/><rect x="150" y="1060" width="780" height="3"/></g>
+<rect x="430" y="1240" width="220" height="60" rx="10" fill="#151210"/>
+<text x="190" y="640" font-family="Bebas Neue" font-size="44" fill="#d9ffe9" opacity=".85">CAM 1   03:00:09</text>
+<circle cx="880" cy="625" r="12" fill="#ff3b3b"/>
+<text x="540" y="420" text-anchor="middle" font-family="Creepster" font-size="104" fill="#f4ff9a" opacity=".9">AND ME</text>
+</svg>

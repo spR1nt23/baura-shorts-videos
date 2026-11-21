@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#070709"/>
+<rect x="90" y="520" width="900" height="820" rx="70" fill="#25211d" stroke="#0d0b09" stroke-width="16"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#1a2a1f"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#8fd9a8" opacity=".18"/>
+<rect x="190" y="980" width="700" height="140" fill="#0c140f"/>
+<g transform="translate(540 760)" fill="#000"><ellipse cx="0" cy="0" rx="85" ry="130"/><path d="M-110 100 Q0 50 110 100 L160 440 L-160 440Z"/>
+<path d="M-100 120 L-200 420 L-175 430 L-80 170Z"/><path d="M100 120 L200 420 L175 430 L80 170Z"/>
+<circle cx="-28" cy="-8" r="12" fill="#ff3b3b"/><circle cx="28" cy="-8" r="12" fill="#ff3b3b"/>
+<circle cx="-28" cy="-8" r="30" fill="#ff3b3b" opacity=".18"/><circle cx="28" cy="-8" r="30" fill="#ff3b3b" opacity=".18"/></g>
+<g fill="#cfe" opacity=".12"><rect x="150" y="640" width="780" height="4"/><rect x="150" y="760" width="780" height="3"/><rect x="150" y="900" width="780" height="5"/><rect x="150" y="1060" width="780" height="3"/></g>
+<rect x="430" y="1240" width="220" height="60" rx="10" fill="#151210"/>
+<text x="190" y="640" font-family="Bebas Neue" font-size="44" fill="#d9ffe9" opacity=".85">CAM 1   11-17  03:07:33</text>
+<circle cx="880" cy="625" r="12" fill="#ff3b3b"/>
+<text x="540" y="420" text-anchor="middle" font-family="Creepster" font-size="104" fill="#f4ff9a" opacity=".9">ONLY IT</text>
+</svg>

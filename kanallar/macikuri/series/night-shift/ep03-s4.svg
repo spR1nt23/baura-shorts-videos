@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0b0d0f"/>
+<g fill="#1f2a27" stroke="#0d0b09" stroke-width="10"><rect x="120" y="420" width="260" height="940"/><rect x="410" y="420" width="260" height="940"/><rect x="700" y="420" width="260" height="940"/></g>
+<g stroke="#0d0b09" stroke-width="6"><path d="M160 480 h180 M160 510 h180 M160 540 h180"/><path d="M740 480 h180 M740 510 h180 M740 540 h180"/></g>
+<rect x="410" y="420" width="260" height="940" fill="#05040b"/>
+<path d="M410 420 L250 360 L250 1420 L410 1360Z" fill="#26332f" stroke="#0d0b09" stroke-width="10"/>
+<path d="M440 470 h200" stroke="#3a352e" stroke-width="10"/><path d="M540 470 v40" stroke="#3a352e" stroke-width="8"/>
+<path d="M470 520 Q540 500 610 520 L630 980 L450 980Z" fill="#1d1c22"/><path d="M510 515 L540 600 L570 515" fill="#2a2933"/>
+<g transform="translate(540 1120) rotate(8)"><rect x="-60" y="-80" width="120" height="170" rx="10" fill="#d8d2c2"/><rect x="-60" y="-80" width="120" height="35" rx="10" fill="#2f5c4d"/><rect x="-35" y="-30" width="70" height="80" fill="#8d8b86"/></g>
+<rect x="410" y="420" width="260" height="940" fill="#f4ff9a" opacity=".05"/>
+<g fill="#c9b8a6"><path d="M800 1300 L940 1240 L960 1270 L830 1340Z"/></g>
+<path d="M830 1300 L640 900" stroke="#3a352e" stroke-width="18" stroke-linecap="round"/>
+<g fill="#9a9488" opacity=".35"><circle cx="460" cy="600" r="4"/><circle cx="600" cy="700" r="3"/><circle cx="520" cy="1040" r="5"/><circle cx="620" cy="1200" r="4"/></g>
+<text x="540" y="300" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">A BADGE</text>
+</svg>

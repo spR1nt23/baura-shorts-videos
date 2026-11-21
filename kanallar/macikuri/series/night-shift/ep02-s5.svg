@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#070709"/>
+<rect x="90" y="520" width="900" height="820" rx="70" fill="#25211d" stroke="#0d0b09" stroke-width="16"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#1a2a1f"/>
+<rect x="150" y="580" width="780" height="620" rx="40" fill="#8fd9a8" opacity=".18"/>
+<path d="M150 1200 L470 860 L610 860 L930 1200Z" fill="#132019"/>
+<path d="M170 600 L470 760 L470 860 L170 1180Z" fill="#0f1a14"/><path d="M910 600 L610 760 L610 860 L910 1180Z" fill="#0f1a14"/>
+<g fill="#a8ffd0" opacity=".14"><path d="M190 660 L450 780 L450 850 L190 1120Z"/></g>
+<g stroke="#2f5c4d" stroke-width="6" opacity=".8"><path d="M190 660 L450 780"/><path d="M190 890 L450 815"/><path d="M190 1120 L450 850"/></g>
+<rect x="470" y="740" width="140" height="120" fill="#a8ffd0" opacity=".12"/>
+<g fill="#cfe" opacity=".12"><rect x="150" y="640" width="780" height="4"/><rect x="150" y="760" width="780" height="3"/><rect x="150" y="900" width="780" height="5"/><rect x="150" y="1060" width="780" height="3"/></g>
+<rect x="430" y="1240" width="220" height="60" rx="10" fill="#151210"/>
+<text x="190" y="640" font-family="Bebas Neue" font-size="44" fill="#d9ffe9" opacity=".85">CAM 2  FREEZERS  03:04:10</text>
+<circle cx="880" cy="625" r="12" fill="#ff3b3b"/>
+<text x="540" y="1140" text-anchor="middle" font-family="Bebas Neue" font-size="52" fill="#d9ffe9" opacity=".8">NO MOTION</text>
+<text x="540" y="420" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a" opacity=".9">NO ONE</text>
+</svg>
