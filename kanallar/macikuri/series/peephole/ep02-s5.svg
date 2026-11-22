@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect x="0" y="0" width="1080" height="1920" fill="#1b1430" opacity=".5"/>
+<g transform="translate(540 900) scale(1.8)">
+<path d="M-260 420 Q-260 150 -120 110 L120 110 Q260 150 260 420Z" fill="#5a5f6b"/>
+<path d="M-170 140 Q-210 -190 0 -200 Q210 -190 170 140 L120 160 L-120 160Z" fill="#4c515c"/>
+<ellipse cx="0" cy="-20" rx="115" ry="135" fill="#c9b8a6"/>
+<path d="M-118 -30 Q-110 -170 0 -165 Q110 -170 118 -30 Q80 -110 20 -100 Q-40 -120 -118 -30Z" fill="#2a1d16"/>
+<g fill="#fff"><ellipse cx="-45" cy="-10" rx="24" ry="16"/><ellipse cx="45" cy="-10" rx="24" ry="16"/></g>
+<g fill="#05040b"><circle cx="-60" cy="-10" r="10"/><circle cx="30" cy="-10" r="10"/></g>
+<path d="M-75 -42 L-20 -36 M75 -42 L20 -36" stroke="#2a1d16" stroke-width="7" stroke-linecap="round"/>
+<path d="M-25 70 Q0 62 25 70" stroke="#6b4a3a" stroke-width="6" fill="none"/>
+<path d="M95 -60 Q105 -40 98 -25 Q88 -40 95 -60Z" fill="#a8ffd0" opacity=".8"/>
+</g>
+<text x="540" y="330" text-anchor="middle" font-family="Creepster" font-size="140" fill="#f4ff9a">"NO."</text>
+</svg>

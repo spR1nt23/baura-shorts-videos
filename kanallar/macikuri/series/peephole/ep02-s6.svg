@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<g transform="translate(540 1080) scale(2.1)">
+<path d="M-220 400 Q-230 160 -110 110 L110 110 Q230 160 220 400Z" fill="#2a4a33"/>
+<ellipse cx="0" cy="-30" rx="120" ry="140" fill="#8e8072"/>
+<path d="M-125 -30 Q-130 -180 0 -180 Q130 -180 125 -30 Q100 -130 0 -130 Q-100 -130 -125 -30Z" fill="#6b6762"/>
+<circle cx="0" cy="-200" r="62" fill="#6b6762"/>
+<g fill="none" stroke="#120f0b" stroke-width="7"><circle cx="-48" cy="-25" r="36"/><circle cx="48" cy="-25" r="36"/><path d="M-12 -25 H12"/></g>
+<g fill="#f4ff9a" opacity=".55"><path d="M-75 -45 L-55 -55 L-70 -20Z"/><path d="M21 -45 L41 -55 L26 -20Z"/></g>
+<g fill="#120f0b"><circle cx="-48" cy="-18" r="10"/><circle cx="48" cy="-18" r="10"/></g>
+<path d="M-30 65 H30" stroke="#3a1a17" stroke-width="8" stroke-linecap="round"/>
+</g>
+<text x="540" y="300" text-anchor="middle" font-family="Creepster" font-size="88" fill="#ff3b3b">DID IT SAY</text>
+<text x="540" y="400" text-anchor="middle" font-family="Creepster" font-size="88" fill="#ff3b3b">YOUR NAME?</text>
+</svg>

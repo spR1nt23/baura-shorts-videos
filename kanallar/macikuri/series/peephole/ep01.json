@@ -1,0 +1,57 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 1 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep01-s1.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "The apartment was cheap because nobody ever stayed. Ninth floor, unit 9C, the Halden Building. I signed the lease the same day."
+  },
+  {
+   "svg_file": "ep01-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "On my first night, at exactly three AM, someone knocked on my door. Three slow knocks."
+  },
+  {
+   "svg_file": "ep01-s3.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "I crept over and looked through the peephole. The hallway was EMPTY. Just that green light, humming."
+  },
+  {
+   "svg_file": "ep01-s4.svg",
+   "move": "left",
+   "fx": [],
+   "vo": "Half asleep, I leaned on the door and whispered, Who's there? Nobody answered. So I went back to bed."
+  },
+  {
+   "svg_file": "ep01-s5.svg",
+   "move": "in",
+   "fx": [
+    "flicker",
+    "shake"
+   ],
+   "vo": "At three ten, it knocked again. Lower this time. Down near the floor, like whoever it was had crouched to my height."
+  },
+  {
+   "svg_file": "ep01-s6.svg",
+   "move": "out",
+   "fx": [
+    "red"
+   ],
+   "vo": "I pressed my eye to the peephole again. This time it was DARK. Something was covering it from the other side."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 1,
+ "total": 12
+}

@@ -1,0 +1,57 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 2 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep01-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night, something covered my peephole from the other side."
+  },
+  {
+   "svg_file": "ep02-s2.svg",
+   "move": "up",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "In the morning, I stepped into the hall. Around the peephole was a greasy smudge. Above my door were long finger marks. HIGHER than any person could reach."
+  },
+  {
+   "svg_file": "ep02-s3.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "I went down to the basement office. The landlady, Mrs. Dorsey, didn't look surprised. She just kept knitting."
+  },
+  {
+   "svg_file": "ep02-s4.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "It knocked, didn't it? she said. Three times, at three. Did you ANSWER it?"
+  },
+  {
+   "svg_file": "ep02-s5.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "I remembered whispering through the door that first night. I don't know why, but I looked her in the eye and said no."
+  },
+  {
+   "svg_file": "ep02-s6.svg",
+   "move": "out",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "She put her needles down and stared at me for a long time. Then she asked, Did it say your NAME yet?"
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 2,
+ "total": 12
+}

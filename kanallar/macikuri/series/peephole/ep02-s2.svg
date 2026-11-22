@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect x="0" y="0" width="1080" height="1920" fill="#a8ffd0" opacity=".05"/>
+<rect x="0" y="1380" width="1080" height="540" fill="#3a1418"/>
+<g stroke="#2a0e11" stroke-width="10"><path d="M0 1460 H1080 M0 1560 H1080"/></g>
+<rect x="420" y="120" width="240" height="22" fill="#d9ffe9" opacity=".9"/><path d="M420 142 L300 400 L780 400 L660 142Z" fill="#d9ffe9" opacity=".06"/>
+<rect x="250" y="330" width="580" height="1060" fill="#1a0f0d"/>
+<rect x="290" y="370" width="500" height="1020" fill="#4a2420"/>
+<rect x="340" y="560" width="400" height="330" fill="none" stroke="#3a1a17" stroke-width="12"/><rect x="340" y="960" width="400" height="360" fill="none" stroke="#3a1a17" stroke-width="12"/>
+<rect x="490" y="440" width="100" height="70" rx="8" fill="#c9a36a"/>
+<text x="540" y="497" text-anchor="middle" font-family="Bebas Neue" font-size="60" fill="#1a0f0d">9C</text>
+<ellipse cx="540" cy="700" rx="90" ry="80" fill="#2a1410" opacity=".85"/>
+<circle cx="540" cy="700" r="22" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<circle cx="730" cy="1020" r="30" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<g fill="#1f0c0a" opacity=".9"><path d="M430 400 Q440 300 455 220 Q470 210 470 230 L465 400Z"/><path d="M490 400 Q495 280 505 190 Q520 180 522 200 L520 400Z"/><path d="M555 400 Q560 280 570 195 Q585 185 588 205 L582 400Z"/><path d="M615 400 Q622 300 640 225 Q655 220 652 240 L640 400Z"/></g>
+<path d="M300 210 L380 260 M700 210 L780 260" stroke="#f4ff9a" stroke-width="6" stroke-dasharray="14 12" opacity=".7"/>
+<text x="540" y="1200" text-anchor="middle" font-family="Creepster" font-size="80" fill="#f4ff9a" opacity=".9">TOO HIGH</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="rim" cx=".5" cy=".5" r=".5"><stop offset=".82" stop-color="#000" stop-opacity="0"/><stop offset=".97" stop-color="#a8ffd0" stop-opacity=".35"/><stop offset="1" stop-color="#a8ffd0" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<circle cx="540" cy="860" r="400" fill="#020203"/>
+<g fill="#0c0c10"><path d="M300 600 Q330 560 360 600 L400 1150 Q370 1180 340 1150Z"/><path d="M420 520 Q455 480 490 520 L520 1160 Q490 1190 460 1160Z"/><path d="M560 510 Q595 470 630 510 L640 1160 Q610 1190 580 1160Z"/><path d="M700 560 Q735 525 765 565 L750 1150 Q720 1180 690 1150Z"/></g>
+<circle cx="540" cy="860" r="400" fill="url(#rim)"/>
+<circle cx="608" cy="930" r="9" fill="#ff3b3b" opacity=".75"/>
+<circle cx="540" cy="860" r="400" fill="none" stroke="#c9a36a" stroke-width="24"/>
+<circle cx="540" cy="860" r="430" fill="none" stroke="#1a0f0d" stroke-width="40"/>
+<text x="540" y="370" text-anchor="middle" font-family="Creepster" font-size="96" fill="#ff3b3b">IT'S COVERED</text>
+</svg>

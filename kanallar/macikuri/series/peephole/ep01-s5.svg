@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="190" y="260" width="700" height="1260" fill="#1a0f0d"/>
+<rect x="230" y="300" width="620" height="1220" fill="#4a2420"/>
+<rect x="290" y="370" width="500" height="420" fill="none" stroke="#3a1a17" stroke-width="12"/><rect x="290" y="870" width="500" height="420" fill="none" stroke="#3a1a17" stroke-width="12"/>
+<circle cx="540" cy="620" r="24" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<rect x="700" y="560" width="70" height="20" rx="6" fill="#8d8b86"/><path d="M770 570 Q800 640 760 700" stroke="#8d8b86" stroke-width="8" fill="none"/>
+<circle cx="760" cy="960" r="32" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<rect x="230" y="1505" width="620" height="15" fill="#a8ffd0" opacity=".5"/>
+<g fill="#a8ffd0" opacity=".25"><rect x="320" y="1505" width="60" height="15" fill="#05040b" opacity="1"/></g>
+<g font-family="Creepster" fill="#f4ff9a" text-anchor="middle" transform="rotate(-6 540 1100)"><text x="400" y="1140" font-size="90">KNOCK</text><text x="600" y="1240" font-size="90">KNOCK</text><text x="690" y="1050" font-size="90">KNOCK</text></g>
+<g stroke="#f4ff9a" stroke-width="6" opacity=".6" fill="none"><path d="M330 1380 q-30 30 0 60"/><path d="M300 1360 q-45 50 0 100"/><path d="M750 1380 q30 30 0 60"/><path d="M780 1360 q45 50 0 100"/></g>
+<text x="540" y="200" text-anchor="middle" font-family="Bebas Neue" font-size="72" fill="#a8ffd0">03:10</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05040b"/><stop offset=".75" stop-color="#1b1430"/><stop offset="1" stop-color="#0a0812"/></linearGradient>
+<radialGradient id="win" cx=".5" cy=".5" r=".8"><stop offset="0" stop-color="#a8ffd0" stop-opacity=".7"/><stop offset="1" stop-color="#a8ffd0" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="url(#sky)"/>
+<circle cx="230" cy="420" r="80" fill="#e8e3c8" opacity=".85"/><circle cx="258" cy="406" r="80" fill="#0d0a18"/>
+<g fill="#07060c"><rect x="80" y="980" width="140" height="500"/><rect x="860" y="900" width="150" height="580"/></g>
+<rect x="290" y="330" width="500" height="1150" fill="#14111b" stroke="#07060c" stroke-width="14"/>
+<rect x="270" y="310" width="540" height="40" fill="#0b0910"/>
+<g fill="#0a0810">
+<rect x="330" y="470" width="80" height="80"/><rect x="500" y="470" width="80" height="80"/><rect x="670" y="470" width="80" height="80"/>
+<rect x="330" y="590" width="80" height="80"/><rect x="500" y="590" width="80" height="80"/><rect x="670" y="590" width="80" height="80"/>
+<rect x="330" y="710" width="80" height="80"/><rect x="500" y="710" width="80" height="80"/><rect x="670" y="710" width="80" height="80"/>
+<rect x="330" y="830" width="80" height="80"/><rect x="500" y="830" width="80" height="80"/><rect x="670" y="830" width="80" height="80"/>
+<rect x="330" y="950" width="80" height="80"/><rect x="670" y="950" width="80" height="80"/>
+<rect x="330" y="1070" width="80" height="80"/><rect x="500" y="1070" width="80" height="80"/><rect x="670" y="1070" width="80" height="80"/>
+</g>
+<rect x="500" y="950" width="80" height="80" fill="#f4ff9a" opacity=".35"/>
+<rect x="640" y="340" width="140" height="140" fill="url(#win)"/>
+<rect x="670" y="370" width="80" height="80" fill="#a8ffd0" opacity=".85"/>
+<path d="M710 370 V450 M670 410 H750" stroke="#14111b" stroke-width="6"/>
+<rect x="470" y="1300" width="140" height="180" fill="#0a0810"/><rect x="485" y="1315" width="110" height="165" fill="#d9ffe9" opacity=".18"/>
+<rect x="400" y="1220" width="280" height="62" fill="#0b0910"/>
+<text x="540" y="1268" text-anchor="middle" font-family="Bebas Neue" font-size="54" fill="#c9a36a" letter-spacing="8">HALDEN</text>
+<text x="710" y="300" text-anchor="middle" font-family="Bebas Neue" font-size="70" fill="#f4ff9a">9C</text>
+<path d="M710 310 L710 345" stroke="#f4ff9a" stroke-width="5"/>
+</svg>
