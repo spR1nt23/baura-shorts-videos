@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="300" y="300" width="620" height="1200" fill="#1a0f0d"/>
+<rect x="340" y="340" width="540" height="1160" fill="#4a2420"/>
+<rect x="390" y="400" width="440" height="420" fill="none" stroke="#3a1a17" stroke-width="12"/><rect x="390" y="900" width="440" height="420" fill="none" stroke="#3a1a17" stroke-width="12"/>
+<rect x="340" y="1490" width="540" height="10" fill="#a8ffd0" opacity=".45"/>
+<circle cx="610" cy="700" r="20" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<circle cx="800" cy="980" r="30" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<path d="M700 600 Q760 640 820 600" stroke="#8d8b86" stroke-width="8" fill="none"/>
+<g transform="translate(330 900)">
+<path d="M-260 520 Q-260 200 -120 140 L60 140 Q180 200 180 520Z" fill="#5a5f6b"/>
+<path d="M-170 160 Q-200 -130 30 -150 Q200 -140 200 60 L170 190 L-40 190Z" fill="#4c515c"/>
+<path d="M-90 -20 Q-90 -170 50 -160 Q170 -150 170 0 Q170 130 60 150 Q-60 150 -90 40Z" fill="#c9b8a6"/>
+<path d="M-100 -30 Q-90 -190 60 -170 Q190 -150 175 -10 Q130 -110 40 -100 Q-30 -95 -100 -30Z" fill="#2a1d16"/>
+<path d="M120 20 L150 18" stroke="#05040b" stroke-width="8" stroke-linecap="round"/>
+<path d="M125 92 H160" stroke="#3a2a22" stroke-width="6"/>
+<path d="M170 160 Q300 120 420 90 L430 130 Q300 170 190 200Z" fill="#5a5f6b"/><ellipse cx="440" cy="105" rx="40" ry="30" fill="#c9b8a6"/>
+</g>
+<g stroke="#a8ffd0" stroke-width="8" fill="none" opacity=".6" stroke-linecap="round"><path d="M700 820 Q740 860 700 900"/><path d="M730 790 Q790 860 730 930"/><path d="M760 760 Q840 860 760 960"/></g>
+<text x="610" y="250" text-anchor="middle" font-family="Creepster" font-size="78" fill="#a8ffd0" opacity=".9">"open up, dear"</text>
+</svg>

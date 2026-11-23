@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect x="0" y="0" width="1080" height="1300" fill="#1b1430" opacity=".55"/>
+<rect x="0" y="1300" width="1080" height="620" fill="#0b0910"/>
+<rect x="200" y="300" width="460" height="1010" fill="#2a2433" stroke="#16121c" stroke-width="14"/>
+<rect x="250" y="360" width="360" height="420" fill="none" stroke="#1d1826" stroke-width="10"/><rect x="250" y="840" width="360" height="400" fill="none" stroke="#1d1826" stroke-width="10"/>
+<circle cx="600" cy="820" r="16" fill="#c9a36a"/>
+<rect x="760" y="420" width="200" height="300" fill="#05040b" stroke="#2d2a38" stroke-width="12"/><rect x="772" y="432" width="176" height="276" fill="#a8ffd0" opacity=".06"/>
+<rect x="760" y="760" width="170" height="64" rx="10" fill="#05040b"/>
+<text x="845" y="810" text-anchor="middle" font-family="Bebas Neue" font-size="54" fill="#a8ffd0">04:12</text>
+<g transform="translate(470 1080)">
+<path d="M-170 260 Q-180 20 -60 -20 L80 -20 Q190 20 180 260Z" fill="#5a5f6b"/>
+<path d="M-110 0 Q-140 -230 20 -240 Q170 -230 140 0Z" fill="#4c515c"/>
+<ellipse cx="15" cy="-120" rx="82" ry="98" fill="#c9b8a6"/>
+<path d="M-70 -130 Q-60 -240 20 -235 Q100 -235 100 -130 Q70 -190 10 -180 Q-40 -190 -70 -130Z" fill="#2a1d16"/>
+<g fill="#05040b"><circle cx="-15" cy="-115" r="8"/><circle cx="45" cy="-115" r="8"/></g>
+<path d="M-5 -60 H35" stroke="#3a2a22" stroke-width="6"/>
+<path d="M-120 140 Q-60 40 40 60 L120 120 Q40 120 -20 180Z" fill="#3e434d"/><path d="M180 140 Q140 40 40 60" stroke="#3e434d" stroke-width="70" fill="none"/>
+<ellipse cx="-150" cy="40" rx="30" ry="24" fill="#c9b8a6"/>
+</g>
+<g stroke="#d8c7a8" stroke-width="4" opacity=".6"><path d="M290 980 L340 960 M300 1010 L370 990 M310 1040 L350 1030"/></g>
+<text x="420" y="240" text-anchor="middle" font-family="Creepster" font-size="66" fill="#f4ff9a" opacity=".8">scratches...</text>
+</svg>

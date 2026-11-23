@@ -1,0 +1,57 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 4 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep03-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night, the thing outside my door knew I was reading my phone."
+  },
+  {
+   "svg_file": "ep04-s2.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "I didn't sleep. I sat with my back against the closet, waiting for the sun. That's when I felt the scratches."
+  },
+  {
+   "svg_file": "ep04-s3.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Someone had carved words into the inside of the closet door. Small, shaky letters. Signed, NORA. The tenant before me."
+  },
+  {
+   "svg_file": "ep04-s4.svg",
+   "move": "up",
+   "fx": [],
+   "vo": "Rule one. It knocks at three. It can't open the door. You have to. Rule two. Never answer. If it hears you, it learns your VOICE."
+  },
+  {
+   "svg_file": "ep04-s5.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Rule three was carved deeper than the others. Never look when the peephole is DARK. It's looking back."
+  },
+  {
+   "svg_file": "ep04-s6.svg",
+   "move": "out",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "Below that, the letters got messy, like she wrote them in the dark. Nora's last line said: It learned my VOICE."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 4,
+ "total": 12
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><linearGradient id="sp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a8ffd0" stop-opacity=".35"/><stop offset="1" stop-color="#a8ffd0" stop-opacity="0"/></linearGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="120" y="200" width="840" height="810" fill="#4a2420"/>
+<rect x="190" y="280" width="700" height="660" fill="none" stroke="#3a1a17" stroke-width="14"/>
+<circle cx="820" cy="420" r="34" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<rect x="80" y="200" width="40" height="830" fill="#1a0f0d"/><rect x="960" y="200" width="40" height="830" fill="#1a0f0d"/>
+<rect x="120" y="1010" width="840" height="26" fill="#d9ffe9" opacity=".85"/>
+<path d="M120 1036 L960 1036 L1080 1440 L0 1440Z" fill="url(#sp)"/>
+<rect x="0" y="1036" width="1080" height="884" fill="#0b0910" opacity=".55"/>
+<rect x="360" y="1008" width="380" height="30" fill="#000"/>
+<path d="M360 1036 L740 1036 L860 1440 L240 1440Z" fill="#05040b"/>
+<g fill="#ff3b3b"><ellipse cx="500" cy="1022" rx="22" ry="7"/><ellipse cx="610" cy="1022" rx="22" ry="7"/></g>
+<text x="540" y="1230" text-anchor="middle" font-family="Creepster" font-size="70" fill="#f4ff9a" opacity=".75">it knelt down</text>
+</svg>

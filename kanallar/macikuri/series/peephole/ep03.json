@@ -1,0 +1,59 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 3 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep02-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night, my landlady asked if it had said my name yet. I didn't sleep much after that."
+  },
+  {
+   "svg_file": "ep03-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "On the second night, at three AM exactly, the knocking came again. Three slow knocks."
+  },
+  {
+   "svg_file": "ep03-s3.svg",
+   "move": "left",
+   "fx": [],
+   "vo": "Then a voice I knew. Mrs. Dorsey, sweet and tired. Open up, dear. I brought you something warm."
+  },
+  {
+   "svg_file": "ep03-s4.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "My hand was on the lock when my phone buzzed. A message from Mrs. Dorsey. Out of town until FRIDAY. Don't open the door."
+  },
+  {
+   "svg_file": "ep03-s5.svg",
+   "move": "down",
+   "fx": [
+    "flicker",
+    "shake"
+   ],
+   "vo": "The knocking stopped. The light under my door went DARK, like something had knelt down and pressed its face to the gap."
+  },
+  {
+   "svg_file": "ep03-s6.svg",
+   "move": "out",
+   "fx": [
+    "red"
+   ],
+   "vo": "I stood there frozen, staring at my screen. Then the voice said: I know you're READING my message."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 3,
+ "total": 12
+}

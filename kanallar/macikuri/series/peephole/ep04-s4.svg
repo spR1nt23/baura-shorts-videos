@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="110" y="190" width="860" height="1300" fill="#3a2e24"/>
+<g stroke="#2c2219" stroke-width="5" fill="none" opacity=".8"><path d="M110 330 Q540 300 970 350"/><path d="M110 620 Q560 650 970 600"/><path d="M110 930 Q500 900 970 960"/><path d="M110 1250 Q600 1280 970 1230"/></g>
+<radialGradient id="fl" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#f4ff9a" stop-opacity=".22"/><stop offset="1" stop-color="#f4ff9a" stop-opacity="0"/></radialGradient>
+<rect x="110" y="190" width="860" height="1300" fill="url(#fl)"/>
+<g font-family="Bebas Neue" fill="#d8c7a8" stroke="#1a120c" stroke-width="2" font-size="80"><text x="170" y="380">1. IT KNOCKS AT 3:00</text></g>
+<g font-family="Bebas Neue" fill="#d8c7a8" stroke="#1a120c" stroke-width="2" font-size="62" opacity=".9"><text x="210" y="470">IT CAN'T OPEN THE DOOR.</text><text x="210" y="545">YOU HAVE TO.</text></g>
+<path d="M170 610 H910" stroke="#2c2219" stroke-width="6"/>
+<g font-family="Bebas Neue" fill="#d8c7a8" stroke="#1a120c" stroke-width="2" font-size="80"><text x="170" y="740">2. NEVER ANSWER.</text></g>
+<g font-family="Bebas Neue" fill="#d8c7a8" stroke="#1a120c" stroke-width="2" font-size="62" opacity=".9"><text x="210" y="830">IF IT HEARS YOU,</text><text x="210" y="905">IT LEARNS YOUR</text></g>
+<text x="210" y="1030" font-family="Bebas Neue" font-size="130" fill="#f4ff9a" stroke="#1a120c" stroke-width="3">VOICE.</text>
+</svg>

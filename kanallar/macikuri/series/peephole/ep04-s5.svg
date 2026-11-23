@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="110" y="190" width="860" height="1300" fill="#3a2e24"/>
+<g stroke="#2c2219" stroke-width="5" fill="none" opacity=".8"><path d="M110 330 Q540 300 970 350"/><path d="M110 620 Q560 650 970 600"/><path d="M110 930 Q500 900 970 960"/><path d="M110 1250 Q600 1280 970 1230"/></g>
+<radialGradient id="fl" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#f4ff9a" stop-opacity=".22"/><stop offset="1" stop-color="#f4ff9a" stop-opacity="0"/></radialGradient>
+<rect x="110" y="190" width="860" height="1300" fill="url(#fl)"/>
+<g font-family="Bebas Neue" fill="#e8dcc0" stroke="#000" stroke-width="5"><text x="540" y="420" text-anchor="middle" font-size="110">3. NEVER LOOK</text><text x="540" y="540" text-anchor="middle" font-size="96">WHEN THE PEEPHOLE</text><text x="540" y="670" text-anchor="middle" font-size="140" fill="#f4ff9a">IS DARK</text></g>
+<circle cx="540" cy="930" r="150" fill="#05040b" stroke="#d8c7a8" stroke-width="10"/>
+<circle cx="540" cy="930" r="170" fill="none" stroke="#d8c7a8" stroke-width="4" stroke-dasharray="20 14"/>
+<g fill="#ff3b3b"><ellipse cx="490" cy="920" rx="24" ry="10"/><ellipse cx="590" cy="920" rx="24" ry="10"/></g>
+<text x="540" y="1190" text-anchor="middle" font-family="Bebas Neue" fill="#d8c7a8" stroke="#1a120c" stroke-width="2" font-size="64">IT'S LOOKING BACK</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="110" y="190" width="860" height="1300" fill="#3a2e24"/>
+<g stroke="#2c2219" stroke-width="5" fill="none" opacity=".8"><path d="M110 330 Q540 300 970 350"/><path d="M110 620 Q560 650 970 600"/><path d="M110 930 Q500 900 970 960"/><path d="M110 1250 Q600 1280 970 1230"/></g>
+<radialGradient id="fl" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#f4ff9a" stop-opacity=".22"/><stop offset="1" stop-color="#f4ff9a" stop-opacity="0"/></radialGradient>
+<rect x="110" y="190" width="860" height="1300" fill="url(#fl)"/>
+<g stroke="#120c08" stroke-width="10" stroke-linecap="round" opacity=".9"><path d="M330 360 Q345 700 320 1050"/><path d="M400 340 Q420 700 400 1080"/><path d="M470 350 Q490 690 475 1060"/><path d="M540 370 Q560 700 548 1040"/></g>
+<g transform="rotate(-6 540 800)"><text x="560" y="720" text-anchor="middle" font-family="Creepster" font-size="104" fill="#c9b8a6" stroke="#000" stroke-width="3">IT LEARNED</text>
+<text x="590" y="880" text-anchor="middle" font-family="Creepster" font-size="128" fill="#ff3b3b" stroke="#000" stroke-width="3">MY VOICE</text></g>
+<text x="760" y="1060" text-anchor="middle" font-family="Bebas Neue" font-size="56" fill="#d8c7a8" opacity=".5">— N</text>
+</svg>

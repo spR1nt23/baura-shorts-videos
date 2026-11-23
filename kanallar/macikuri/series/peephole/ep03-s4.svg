@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><radialGradient id="g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#a8ffd0" stop-opacity=".22"/><stop offset="1" stop-color="#a8ffd0" stop-opacity="0"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<circle cx="540" cy="820" r="560" fill="url(#g)"/>
+<path d="M300 1440 L320 1180 Q540 1120 760 1180 L790 1440Z" fill="#5a5f6b"/>
+<g transform="translate(540 780) scale(1)">
+<rect x="-210" y="-410" width="420" height="820" rx="50" fill="#0e0d12" stroke="#2d2a38" stroke-width="12"/>
+<rect x="-185" y="-350" width="370" height="700" rx="18" fill="#0f1a16"/>
+<text x="0" y="-295" text-anchor="middle" font-family="Bebas Neue" font-size="46" fill="#d9ffe9">MRS. DORSEY</text>
+<path d="M-185 -270 H185" stroke="#2d3a33" stroke-width="4"/>
+<rect x="-160" y="-230" width="320" height="250" rx="26" fill="#2d3a33"/>
+<g font-family="Bebas Neue" font-size="50" fill="#d9ffe9"><text x="-135" y="-170">OUT OF TOWN</text><text x="-135" y="-115">UNTIL <tspan fill="#f4ff9a">FRIDAY.</tspan></text><text x="-135" y="-60">DON'T OPEN</text><text x="-135" y="-5">THE DOOR.</text></g>
+<text x="140" y="50" text-anchor="end" font-family="Bebas Neue" font-size="30" fill="#8d8b86">03:02</text>
+</g>
+<g fill="#c9b8a6"><ellipse cx="320" cy="760" rx="38" ry="70"/><ellipse cx="320" cy="900" rx="36" ry="62"/><ellipse cx="760" cy="700" rx="34" ry="60"/><ellipse cx="762" cy="830" rx="34" ry="60"/><ellipse cx="760" cy="955" rx="32" ry="56"/>
+<path d="M330 1180 Q330 1060 420 1040 L660 1040 Q760 1060 760 1180Z"/></g>
+</svg>
