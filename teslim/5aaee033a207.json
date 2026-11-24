@@ -1,0 +1,38 @@
+{
+ "jobId": "5aaee033a207",
+ "status": "ready",
+ "videos": [
+  {
+   "path": "videos/2026-11-25/vidNEW7_medicareb2027.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/millioner-videos/main/videos/2026-11-25/vidNEW7_medicareb2027.mp4",
+   "title": "Medicare Part B Is Going Up in 2027",
+   "description": "CMS announced on Nov. 17, 2026 that the standard Medicare Part B premium rises to $209.40 a month in 2027, up $6.50 from $202.90 (about $78 more a year). The annual Part B deductible goes from $283 to $292. Educational only, not financial advice. #medicare #retirement #shorts ",
+   "tags": [
+    "Medicare",
+    "Medicare Part B",
+    "2027 Medicare premium",
+    "retirement",
+    "personal finance"
+   ],
+   "publishAt": "2026-11-25T20:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  },
+  {
+   "path": "videos/2026-11-25/vidNEW7_dropboxusb.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/millioner-videos/main/videos/2026-11-25/vidNEW7_dropboxusb.mp4",
+   "title": "He Forgot His USB Drive. Then He Built Dropbox",
+   "description": "Drew Houston forgot his thumb drive before a Boston-to-New York bus ride, so he started coding what became Dropbox. In 2009, Steve Jobs reportedly offered a nine-figure deal to buy it, and Houston said no. #dropbox #entrepreneur #shorts ",
+   "tags": [
+    "Drew Houston",
+    "Dropbox",
+    "entrepreneur",
+    "founder story",
+    "startup"
+   ],
+   "publishAt": "2026-11-26T01:00:00+03:00",
+   "format": "short",
+   "extra": {}
+  }
+ ]
+}
