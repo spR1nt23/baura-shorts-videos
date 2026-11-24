@@ -31,3 +31,4 @@ Not: Talimat "12 bölüm Pzt–Cmt" der; final 12. bölüm (Cmt 23:00, render so
 ## Üretim durumu
 - 11-23: Part 1 + Part 2 → macikuri/2026-11-23/ep01.mp4, ep02.mp4
 - 11-24: Part 3 + Part 4 → macikuri/2026-11-24/ep03.mp4, ep04.mp4
+- 11-25: Part 5 + Part 6 → macikuri/2026-11-25/ep05.mp4, ep06.mp4

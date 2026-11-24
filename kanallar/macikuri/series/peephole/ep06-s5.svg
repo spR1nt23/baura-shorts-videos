@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><linearGradient id="up" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#a8ffd0" stop-opacity=".18"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient></defs>
+<rect width="1080" height="1920" fill="#0b0910"/>
+<rect x="140" y="120" width="800" height="1320" fill="#141a1a"/>
+<g fill="#1d2622" stroke="#07060c" stroke-width="6">
+<path d="M140 1440 L540 1440 L540 1380 L600 1380 L600 1320 L660 1320 L660 1260 L720 1260 L720 1200 L780 1200 L780 1140 L840 1140 L840 1080 L940 1080 L940 1440Z"/>
+<path d="M940 1000 L540 1000 L540 940 L480 940 L480 880 L420 880 L420 820 L360 820 L360 760 L300 760 L300 700 L140 700 L140 1000Z" fill="#161d1c"/>
+<path d="M140 620 L540 620 L540 560 L600 560 L600 500 L660 500 L660 440 L720 440 L720 380 L780 380 L780 320 L940 320 L940 620Z" fill="#0f1414"/>
+</g>
+<path d="M140 120 L940 120 L940 330 L140 330Z" fill="#000" opacity=".85"/>
+<rect x="140" y="120" width="800" height="1320" fill="url(#up)"/>
+<rect x="190" y="1180" width="150" height="150" fill="#2d3236" stroke="#07060c" stroke-width="6"/>
+<text x="265" y="1300" text-anchor="middle" font-family="Bebas Neue" font-size="130" fill="#d9ffe9">8</text>
+<rect x="190" y="420" width="150" height="150" fill="#2d3236" stroke="#07060c" stroke-width="6"/>
+<text x="265" y="540" text-anchor="middle" font-family="Bebas Neue" font-size="130" fill="#ff3b3b">?</text>
+<g transform="translate(700 1040) scale(.55)"><path d="M-110 300 Q-120 60 -60 20 L60 20 Q120 60 110 300Z" fill="#5a5f6b"/><ellipse cx="0" cy="-50" rx="70" ry="80" fill="#2a1d16"/><path d="M-70 -40 Q-80 -120 0 -130 Q80 -120 70 -40 Q60 30 0 40 Q-60 30 -70 -40Z" fill="#5a5f6b"/><path d="M-60 300 L-60 420 M60 300 L60 420" stroke="#2d2a38" stroke-width="40"/></g>
+<text x="540" y="230" text-anchor="middle" font-family="Creepster" font-size="86" fill="#f4ff9a" opacity=".9">ONE MORE FLIGHT</text>
+</svg>

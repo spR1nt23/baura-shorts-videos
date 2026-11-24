@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect width="1080" height="1920" fill="#a8ffd0" opacity=".05"/>
+<g stroke="#1d2622" stroke-width="8"><path d="M0 200 H1080 M0 1500 H1080"/><path d="M120 0 V1920 M960 0 V1920"/></g>
+<rect x="300" y="240" width="480" height="1180" rx="20" fill="#2d3236" stroke="#1d2622" stroke-width="12"/>
+<rect x="330" y="270" width="420" height="120" rx="10" fill="#05040b"/>
+<text x="540" y="360" text-anchor="middle" font-family="Bebas Neue" font-size="96" fill="#ff3b3b">L</text>
+<g fill="#5a6470" stroke="#1d2622" stroke-width="8">
+<circle cx="440" cy="520" r="62"/><circle cx="640" cy="520" r="62"/><circle cx="440" cy="690" r="62"/><circle cx="640" cy="690" r="62"/>
+<circle cx="440" cy="860" r="62"/><circle cx="640" cy="860" r="62"/><circle cx="440" cy="1030" r="62"/><circle cx="640" cy="1030" r="62"/></g>
+<g font-family="Bebas Neue" font-size="72" fill="#d9ffe9" text-anchor="middle">
+<text x="440" y="545">7</text><text x="640" y="545" fill="#f4ff9a">8</text><text x="440" y="715">5</text><text x="640" y="715">6</text>
+<text x="440" y="885">3</text><text x="640" y="885">4</text><text x="440" y="1055">1</text><text x="640" y="1055">2</text></g>
+<circle cx="640" cy="520" r="72" fill="none" stroke="#f4ff9a" stroke-width="6" opacity=".6"/>
+<rect x="370" y="1150" width="340" height="90" rx="12" fill="#1d2622"/>
+<text x="540" y="1218" text-anchor="middle" font-family="Bebas Neue" font-size="64" fill="#8d8b86">◀ ▶</text>
+<text x="540" y="170" text-anchor="middle" font-family="Creepster" font-size="110" fill="#f4ff9a">NO NINE</text>
+</svg>

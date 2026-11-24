@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><clipPath id="hole"><circle cx="540" cy="860" r="400"/></clipPath>
+<radialGradient id="fish" cx=".5" cy=".5" r=".5"><stop offset=".7" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".9"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<g clip-path="url(#hole)">
+<rect x="140" y="460" width="800" height="800" fill="#101418"/>
+<rect x="140" y="460" width="800" height="800" fill="#a8ffd0" opacity=".06"/>
+<path d="M200 1300 Q210 1080 380 1020 L700 1020 Q870 1080 880 1300Z" fill="#d9d4c8"/>
+<path d="M330 1020 Q300 700 360 560 Q540 440 720 560 Q780 700 750 1020 L640 1020 L640 760 L440 760 L440 1020Z" fill="#0a0810"/>
+<ellipse cx="540" cy="790" rx="150" ry="185" fill="#c9b8a6"/>
+<circle cx="540" cy="790" r="96" fill="#c9a36a" stroke="#1a0f0d" stroke-width="12"/>
+<circle cx="540" cy="790" r="64" fill="#020203"/>
+<circle cx="556" cy="800" r="11" fill="#ff3b3b"/>
+<path d="M400 620 Q540 560 680 620 L690 700 Q540 640 390 700Z" fill="#0a0810"/>
+<rect x="140" y="460" width="800" height="800" fill="url(#fish)"/>
+</g>
+<circle cx="540" cy="860" r="400" fill="none" stroke="#c9a36a" stroke-width="24"/>
+<circle cx="540" cy="860" r="430" fill="none" stroke="#1a0f0d" stroke-width="40"/>
+<text x="540" y="370" text-anchor="middle" font-family="Creepster" font-size="104" fill="#ff3b3b">NO FACE</text>
+</svg>

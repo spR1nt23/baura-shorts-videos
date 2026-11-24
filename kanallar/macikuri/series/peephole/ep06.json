@@ -1,0 +1,58 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 6 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep05-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night, the girl outside my door had a peephole instead of a face."
+  },
+  {
+   "svg_file": "ep06-s2.svg",
+   "move": "left",
+   "fx": [],
+   "vo": "In the morning, I called the management company. I asked about Nora, the girl who lived in nine C before me."
+  },
+  {
+   "svg_file": "ep06-s3.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "The man was quiet for a while. Then he said, Halden Building has EIGHT floors. There is no nine C. There never was."
+  },
+  {
+   "svg_file": "ep06-s4.svg",
+   "move": "up",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Downstairs, I stepped into the elevator for the first time. I had always taken the stairs. The buttons went from one to EIGHT."
+  },
+  {
+   "svg_file": "ep06-s5.svg",
+   "move": "up",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "So I climbed back up, counting every floor out loud. Six. Seven. Eight. And the stairs kept GOING."
+  },
+  {
+   "svg_file": "ep06-s6.svg",
+   "move": "out",
+   "fx": [
+    "red"
+   ],
+   "vo": "There were only eight floors. And I was standing on the NINTH."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 6,
+ "total": 12
+}

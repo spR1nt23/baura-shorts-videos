@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="60" y="160" width="960" height="1260" fill="#4a2420"/>
+<rect x="60" y="160" width="60" height="1260" fill="#1a0f0d"/>
+<rect x="140" y="300" width="760" height="980" fill="none" stroke="#3a1a17" stroke-width="14"/>
+<rect x="720" y="560" width="150" height="70" rx="10" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<rect x="250" y="590" width="90" height="50" rx="8" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<g fill="none" stroke="#c9a36a" stroke-width="12"><ellipse cx="370" cy="640" rx="26" ry="16"/><ellipse cx="420" cy="670" rx="26" ry="16"/><ellipse cx="470" cy="690" rx="26" ry="16"/><ellipse cx="520" cy="700" rx="26" ry="16"/><ellipse cx="570" cy="700" rx="26" ry="16"/></g>
+<circle cx="610" cy="694" r="20" fill="#c9a36a"/><rect x="600" y="575" width="130" height="24" rx="10" fill="#8d7444"/>
+<path d="M1080 980 L760 820 Q680 780 640 740 L700 690 Q760 720 820 740 L1080 800Z" fill="#5a5f6b"/>
+<g fill="#c9b8a6"><path d="M700 760 Q640 760 600 720 Q580 690 600 670 Q630 660 660 690 L720 720Z"/><ellipse cx="610" cy="690" rx="26" ry="18"/><ellipse cx="640" cy="668" rx="24" ry="16"/><ellipse cx="672" cy="672" rx="22" ry="15"/></g>
+<g font-family="Creepster" fill="#f4ff9a" text-anchor="middle"><text x="540" y="1020" font-size="84" opacity=".85">"it's behind me"</text><text x="540" y="1150" font-size="96" fill="#ff3b3b">"OPEN IT"</text></g>
+</svg>

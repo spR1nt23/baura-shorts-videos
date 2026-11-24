@@ -1,0 +1,59 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 5 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep04-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night, I found Nora's rules. Her last line said it learned her voice."
+  },
+  {
+   "svg_file": "ep05-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "On the third night, I didn't even pretend to sleep. At three AM exactly, three slow knocks."
+  },
+  {
+   "svg_file": "ep05-s3.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Then a girl's voice. Weak. Crying. Please, I used to live here. I'm NORA. Help me."
+  },
+  {
+   "svg_file": "ep05-s4.svg",
+   "move": "right",
+   "fx": [
+    "shake"
+   ],
+   "vo": "She said it was right behind her. She begged me to open the door. My fingers were already on the CHAIN."
+  },
+  {
+   "svg_file": "ep05-s5.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "Then I remembered rule three. The peephole wasn't dark. So I LOOKED. A girl in a white nightgown stood at the end of the hall."
+  },
+  {
+   "svg_file": "ep05-s6.svg",
+   "move": "in",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "She walked closer, slowly, until she filled the glass. Where her face should have been, there was only a PEEPHOLE."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 5,
+ "total": 12
+}
