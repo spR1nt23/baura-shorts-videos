@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<path d="M0 1440 L440 900 L640 900 L1080 1440Z" fill="#3a1418"/>
+<path d="M0 200 L440 640 L440 900 L0 1440Z" fill="#1d2622"/><path d="M1080 200 L640 640 L640 900 L1080 1440Z" fill="#1d2622"/>
+<path d="M0 200 L1080 200 L640 640 L440 640Z" fill="#0f1513"/>
+<rect x="440" y="640" width="200" height="260" fill="#0b0910"/>
+<rect x="470" y="690" width="140" height="210" fill="#4a2420"/><circle cx="540" cy="760" r="8" fill="#c9a36a"/>
+<rect x="490" y="330" width="100" height="16" fill="#d9ffe9" opacity=".8"/><path d="M440 346 L640 346 L700 520 L380 520Z" fill="#a8ffd0" opacity=".07"/>
+<g fill="#4a2420"><path d="M90 420 L250 520 L250 1060 L90 1180Z"/><path d="M990 420 L830 520 L830 1060 L990 1180Z"/></g>
+<rect x="830" y="560" width="150" height="190" fill="#1a0f0d" stroke="#ff3b3b" stroke-width="6" transform="skewY(-20) translate(0 330)"/>
+<text x="905" y="1010" text-anchor="middle" font-family="Bebas Neue" font-size="170" fill="#ff3b3b" transform="skewY(-20) translate(0 330)" dy="-330">9</text>
+<path d="M0 200 L440 640 L440 900 L0 1440Z M1080 200 L640 640 L640 900 L1080 1440Z" fill="#a8ffd0" opacity=".05"/>
+<g transform="translate(540 1140) scale(.9)"><path d="M-110 300 Q-120 60 -60 20 L60 20 Q120 60 110 300Z" fill="#5a5f6b"/><path d="M-70 -40 Q-80 -120 0 -130 Q80 -120 70 -40 Q60 30 0 40 Q-60 30 -70 -40Z" fill="#5a5f6b"/><ellipse cx="0" cy="-60" rx="40" ry="30" fill="#2a1d16"/></g>
+<g font-family="Bebas Neue" fill="#f4ff9a" text-anchor="middle"><text x="540" y="150" font-size="110">AGAIN</text></g>
+</svg>

@@ -1,0 +1,59 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 8 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep07-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night the elevator brought me back to my own door. Someone was knocking on it from inside."
+  },
+  {
+   "svg_file": "ep08-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Three slow knocks. Then silence. I checked my phone. It was three AM. Exactly."
+  },
+  {
+   "svg_file": "ep08-s3.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "Peepholes aren't made for looking in. But from the hallway side, the little glass was GLOWING."
+  },
+  {
+   "svg_file": "ep08-s4.svg",
+   "move": "left",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Rule three said never look when the peephole is dark. It wasn't dark. So I pressed my eye against it."
+  },
+  {
+   "svg_file": "ep08-s5.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "I saw my boxes. My clock. My couch. And on the couch, someone was asleep in my grey HOODIE."
+  },
+  {
+   "svg_file": "ep08-s6.svg",
+   "move": "in",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "It had my hair. My face. It was ME. The me on the couch opened its eyes. They were RED."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 8,
+ "total": 12
+}

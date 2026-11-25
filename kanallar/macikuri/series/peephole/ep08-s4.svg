@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect width="1080" height="1920" fill="#a8ffd0" opacity=".04"/>
+<rect x="0" y="1460" width="1080" height="460" fill="#3a1418"/>
+<rect x="600" y="200" width="300" height="1260" fill="#1a0f0d"/>
+<rect x="620" y="200" width="260" height="1260" fill="#4a2420"/>
+<circle cx="652" cy="875" r="16" fill="#f4ff9a"/><circle cx="652" cy="875" r="60" fill="#f4ff9a" opacity=".18"/>
+<g transform="translate(432 940)">
+<path d="M-200 560 Q-210 220 -90 160 L80 160 Q190 220 170 560Z" fill="#5a5f6b"/>
+<path d="M-150 170 Q-190 -150 40 -170 Q220 -150 220 60 L190 200 L-20 210Z" fill="#4c515c"/>
+<path d="M-60 -40 Q-60 -180 80 -175 Q210 -160 220 -30 Q225 100 110 140 Q-20 150 -60 40Z" fill="#c9b8a6"/>
+<path d="M-70 -50 Q-60 -210 90 -190 Q230 -170 220 -40 Q160 -130 70 -120 Q0 -110 -70 -50Z" fill="#2a1d16"/>
+<path d="M178 -68 Q200 -72 214 -60" stroke="#05040b" stroke-width="7" fill="none"/>
+</g>
+<text x="400" y="190" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a">IT WASN'T DARK</text>
+</svg>

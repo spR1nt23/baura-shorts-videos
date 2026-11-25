@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><clipPath id="hole"><circle cx="540" cy="860" r="400"/></clipPath><radialGradient id="fish" cx=".5" cy=".5" r=".5"><stop offset=".7" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".9"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<g clip-path="url(#hole)">
+<rect x="140" y="460" width="800" height="800" fill="#1b1430"/>
+<rect x="140" y="1050" width="800" height="210" fill="#0b0910"/>
+<rect x="640" y="560" width="200" height="280" fill="#05040b" stroke="#2d2a38" stroke-width="10"/><path d="M740 570 V830 M650 700 H830" stroke="#2d2a38" stroke-width="6"/>
+<g transform="translate(330 640) scale(.6)"><circle r="120" fill="#e8e3c8" stroke="#2a1d16" stroke-width="14"/><g stroke="#05040b" stroke-linecap="round"><path d="M0 0 V-80" stroke-width="12"/><path d="M0 0 H60" stroke-width="14"/></g><circle r="10" fill="#05040b"/></g>
+<path d="M230 960 Q230 890 290 890 L790 890 Q850 890 850 960 L850 1090 L230 1090Z" fill="#2d2a38"/>
+<rect x="260" y="980" width="560" height="90" rx="16" fill="#36323f"/>
+<path d="M330 1000 Q450 950 600 985 Q690 1005 760 985 L770 1050 L330 1050Z" fill="#5a5f6b"/>
+<ellipse cx="320" cy="990" rx="48" ry="40" fill="#c9b8a6"/><path d="M272 985 Q280 935 330 940 Q370 950 368 985 Q340 960 300 970Z" fill="#2a1d16"/>
+<path d="M300 996 Q312 1002 324 996" stroke="#05040b" stroke-width="5" fill="none"/>
+<g fill="#3a2e24" stroke="#1a120c" stroke-width="5"><rect x="160" y="1080" width="150" height="110"/><rect x="760" y="1060" width="140" height="120"/></g>
+<rect x="140" y="460" width="800" height="800" fill="#f4ff9a" opacity=".05"/>
+<rect x="140" y="460" width="800" height="800" fill="url(#fish)"/>
+</g>
+<circle cx="540" cy="860" r="400" fill="none" stroke="#c9a36a" stroke-width="24"/><circle cx="540" cy="860" r="430" fill="none" stroke="#1a0f0d" stroke-width="40"/>
+<text x="540" y="380" text-anchor="middle" font-family="Bebas Neue" font-size="90" fill="#d9ffe9" opacity=".75" letter-spacing="8">MY COUCH</text>
+</svg>

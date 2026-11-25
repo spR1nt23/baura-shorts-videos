@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><linearGradient id="dn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a8ffd0" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity=".6"/></linearGradient></defs>
+<rect width="1080" height="1920" fill="#0b0910"/>
+<rect x="140" y="160" width="800" height="1280" fill="#141a1a"/>
+<g fill="#1d2622" stroke="#07060c" stroke-width="6">
+<path d="M140 520 L340 520 L340 580 L400 580 L400 640 L460 640 L460 700 L520 700 L520 760 L580 760 L580 820 L640 820 L640 880 L940 880 L940 940 L140 940Z"/>
+<path d="M940 1060 L740 1060 L740 1120 L680 1120 L680 1180 L620 1180 L620 1240 L560 1240 L560 1300 L500 1300 L500 1360 L440 1360 L440 1440 L940 1440Z" fill="#161d1c"/>
+</g>
+<rect x="140" y="160" width="800" height="1280" fill="url(#dn)"/>
+<path d="M150 470 L930 470" stroke="#2d3236" stroke-width="10"/>
+<g transform="translate(470 560) scale(.6)"><path d="M-110 300 Q-120 60 -60 20 L60 20 Q120 60 110 300Z" fill="#5a5f6b"/><path d="M-70 -40 Q-80 -120 0 -130 Q80 -120 70 -40 Q60 30 0 40 Q-60 30 -70 -40Z" fill="#5a5f6b"/><ellipse cx="0" cy="-60" rx="40" ry="30" fill="#2a1d16"/><path d="M-60 300 L-110 400 M60 300 L90 420" stroke="#2d2a38" stroke-width="40" stroke-linecap="round"/></g>
+<g stroke="#f4ff9a" stroke-width="5" opacity=".5"><path d="M560 470 L640 470 M560 520 L660 520 M560 570 L630 570"/></g>
+<rect x="690" y="1000" width="200" height="200" fill="#2d3236" stroke="#07060c" stroke-width="8"/>
+<text x="790" y="1165" text-anchor="middle" font-family="Bebas Neue" font-size="180" fill="#ff3b3b">9</text>
+<g font-family="Bebas Neue" fill="#d9ffe9" opacity=".55" text-anchor="middle"><text x="250" y="300" font-size="80">8</text><text x="360" y="300" font-size="70" opacity=".8">7</text><text x="460" y="300" font-size="60" opacity=".6">6</text></g>
+<text x="540" y="140" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a">DOWN... DOWN...</text>
+</svg>

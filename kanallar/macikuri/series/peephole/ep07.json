@@ -1,0 +1,61 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 7 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep06-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night I learned Halden Building has eight floors. And I was standing on the ninth."
+  },
+  {
+   "svg_file": "ep07-s2.svg",
+   "move": "down",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "So I ran. Down the stairs, two at a time. Eight. Seven. Six. Then the next sign said NINE."
+  },
+  {
+   "svg_file": "ep07-s3.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "I tried again, and again. Every flight down led me back to the same green hallway. The same red DOOR."
+  },
+  {
+   "svg_file": "ep07-s4.svg",
+   "move": "up",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "So I called the elevator. Something heavy came climbing up the shaft. The doors slid open. Above the eight, there was a new button. NINE. It was already lit."
+  },
+  {
+   "svg_file": "ep07-s5.svg",
+   "move": "in",
+   "fx": [
+    "shake"
+   ],
+   "vo": "I pressed one. The doors closed, and we went down. For a long, long TIME."
+  },
+  {
+   "svg_file": "ep07-s6.svg",
+   "move": "out",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "Then the doors opened to my own front door. Someone was knocking on it. From INSIDE."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 7,
+ "total": 12
+}

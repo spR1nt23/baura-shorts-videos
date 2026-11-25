@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><clipPath id="hole"><circle cx="540" cy="860" r="400"/></clipPath><radialGradient id="fish" cx=".5" cy=".5" r=".5"><stop offset=".7" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".9"/></radialGradient></defs>
+<rect width="1080" height="1920" fill="#05040b"/>
+<g clip-path="url(#hole)">
+<rect x="140" y="460" width="800" height="800" fill="#1b1430"/>
+<path d="M140 1100 Q540 1000 940 1100 L940 1260 L140 1260Z" fill="#2d2a38"/>
+<path d="M260 1260 Q260 1000 400 960 L680 960 Q820 1000 820 1260Z" fill="#5a5f6b"/>
+<path d="M330 900 Q300 560 540 540 Q780 560 750 900 L720 1000 L360 1000Z" fill="#4c515c"/>
+<path d="M400 780 Q400 620 540 615 Q680 620 680 780 Q680 930 540 950 Q400 930 400 780Z" fill="#c9b8a6"/>
+<path d="M390 760 Q390 590 540 590 Q690 590 690 760 Q640 660 540 665 Q440 660 390 760Z" fill="#2a1d16"/>
+<circle cx="488" cy="790" r="26" fill="#ff3b3b"/><circle cx="592" cy="790" r="26" fill="#ff3b3b"/>
+<circle cx="488" cy="790" r="60" fill="#ff3b3b" opacity=".2"/><circle cx="592" cy="790" r="60" fill="#ff3b3b" opacity=".2"/>
+<circle cx="488" cy="790" r="7" fill="#000"/><circle cx="592" cy="790" r="7" fill="#000"/>
+<path d="M500 880 Q540 892 580 880" stroke="#3a2a22" stroke-width="6" fill="none"/>
+<rect x="140" y="460" width="800" height="800" fill="#ff3b3b" opacity=".06"/>
+<rect x="140" y="460" width="800" height="800" fill="url(#fish)"/>
+</g>
+<circle cx="540" cy="860" r="400" fill="none" stroke="#c9a36a" stroke-width="24"/><circle cx="540" cy="860" r="430" fill="none" stroke="#1a0f0d" stroke-width="40"/>
+<text x="540" y="370" text-anchor="middle" font-family="Creepster" font-size="110" fill="#ff3b3b">IT WAS ME</text>
+</svg>
