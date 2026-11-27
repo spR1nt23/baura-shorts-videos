@@ -1,0 +1,60 @@
+{
+ "jobId": "031e20ad6bd7",
+ "status": "ready",
+ "videos": [
+  {
+   "path": "videos/2026-11-28/race1_world.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/flag-race-videos/main/videos/2026-11-28/race1_world.mp4",
+   "title": "Only One Country Can Win This Race",
+   "description": "30 countries race through 5 rounds of obstacles - only one survives! Which country were you cheering for? Comment your country and it might be in the next race.\n\n#marblerace #countries #flags #countryballs #shorts ",
+   "tags": [
+    "marblerace",
+    "countries",
+    "flags",
+    "countryballs",
+    "shorts"
+   ],
+   "publishAt": "2026-11-28T15:00:00+03:00",
+   "format": "short",
+   "extra": {
+    "studio_track": "Bunny Hop"
+   }
+  },
+  {
+   "path": "videos/2026-11-28/race2_europe.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/flag-race-videos/main/videos/2026-11-28/race2_europe.mp4",
+   "title": "Europe Marble Race - Which Country Wins?",
+   "description": "30 countries race through 5 rounds of obstacles - only one survives! Which country were you cheering for? Comment your country and it might be in the next race.\n\n#marblerace #countries #flags #countryballs #shorts ",
+   "tags": [
+    "marblerace",
+    "countries",
+    "flags",
+    "countryballs",
+    "shorts"
+   ],
+   "publishAt": "2026-11-28T20:00:00+03:00",
+   "format": "short",
+   "extra": {
+    "studio_track": "Snake on the Beach"
+   }
+  },
+  {
+   "path": "videos/2026-11-28/race3_world.mp4",
+   "url": "https://raw.githubusercontent.com/spR1nt23/flag-race-videos/main/videos/2026-11-28/race3_world.mp4",
+   "title": "Which Country Wins This Marble Race?",
+   "description": "30 countries race through 5 rounds of obstacles - only one survives! Which country were you cheering for? Comment your country and it might be in the next race.\n\n#marblerace #countries #flags #countryballs #shorts ",
+   "tags": [
+    "marblerace",
+    "countries",
+    "flags",
+    "countryballs",
+    "shorts"
+   ],
+   "publishAt": "2026-11-28T23:30:00+03:00",
+   "format": "short",
+   "extra": {
+    "studio_track": "If I Had a Chicken"
+   }
+  }
+ ]
+}
