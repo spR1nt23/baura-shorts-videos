@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect x="0" y="0" width="1080" height="1250" fill="#1b1430" opacity=".55"/>
+<rect x="0" y="1250" width="1080" height="670" fill="#0b0910"/>
+<rect x="640" y="380" width="260" height="380" fill="#1b2a30" stroke="#2d2a38" stroke-width="14"/>
+<rect x="654" y="394" width="232" height="352" fill="#9aa6b0" opacity=".25"/>
+<path d="M770 394 V746 M654 570 H886" stroke="#2d2a38" stroke-width="8"/>
+<g transform="translate(330 560)"><circle r="120" fill="#e8e3c8" stroke="#2a1d16" stroke-width="14"/>
+<g stroke="#05040b" stroke-linecap="round"><path d="M0 0 L1 60" stroke-width="14"/><path d="M0 0 L-9 -86" stroke-width="10"/></g><circle r="10" fill="#05040b"/></g><path d="M160 1000 Q160 900 240 900 L760 900 Q840 900 840 1000 L840 1180 L160 1180Z" fill="#2d2a38"/>
+<rect x="130" y="1020" width="100" height="190" rx="30" fill="#25212e"/><rect x="770" y="1020" width="100" height="190" rx="30" fill="#25212e"/>
+<rect x="200" y="1030" width="600" height="120" rx="20" fill="#36323f"/><g fill="#3a2e24" stroke="#1a120c" stroke-width="6"><rect x="760" y="1150" width="200" height="150"/><rect x="800" y="1040" width="140" height="110"/></g>
+<path d="M760 1210 H960 M870 1040 V1150" stroke="#1a120c" stroke-width="5"/><rect x="150" y="820" width="170" height="70" rx="10" fill="#05040b"/><text x="235" y="875" text-anchor="middle" font-family="Bebas Neue" font-size="58" fill="#a8ffd0">05:59</text>
+<text x="540" y="300" text-anchor="middle" font-family="Creepster" font-size="110" fill="#d9ffe9" opacity=".85">SILENCE</text>
+</svg>

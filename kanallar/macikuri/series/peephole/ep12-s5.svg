@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<rect x="0" y="1480" width="1080" height="440" fill="#101418"/>
+<rect x="190" y="300" width="700" height="1220" fill="#1a0f0d"/>
+<rect x="230" y="340" width="620" height="1180" fill="#3a3a44"/>
+<rect x="290" y="420" width="500" height="400" fill="none" stroke="#2a2a32" stroke-width="12"/><rect x="290" y="900" width="500" height="400" fill="none" stroke="#2a2a32" stroke-width="12"/>
+<circle cx="540" cy="640" r="24" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<circle cx="760" cy="980" r="32" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<g transform="translate(540 520)">
+<rect x="-110" y="-70" width="220" height="110" rx="10" fill="#c9a36a" stroke="#1a0f0d" stroke-width="6"/>
+<text x="0" y="22" text-anchor="middle" font-family="Bebas Neue" font-size="96" fill="#2a1d16">9C</text>
+</g>
+<text x="540" y="420" text-anchor="middle" font-family="Bebas Neue" font-size="50" fill="#d9ffe9" opacity=".45" text-decoration="line-through">4B</text>
+<rect x="230" y="1505" width="620" height="15" fill="#a8ffd0" opacity=".35"/>
+<text x="540" y="250" text-anchor="middle" font-family="Creepster" font-size="104" fill="#ff3b3b">IT FOLLOWED</text>
+</svg>

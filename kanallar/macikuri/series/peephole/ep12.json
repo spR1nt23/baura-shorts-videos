@@ -1,0 +1,57 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — FINAL 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep11-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "This morning, a note slid under my door. It said rule four."
+  },
+  {
+   "svg_file": "ep12-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Someone always has to be in 9C. Below that: If nobody is, 9C comes LOOKING."
+  },
+  {
+   "svg_file": "ep12-s3.svg",
+   "move": "up",
+   "fx": [],
+   "vo": "I grabbed my boxes and ran down the stairs, all the way to the street. I looked back. EIGHT floors."
+  },
+  {
+   "svg_file": "ep12-s4.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "I found a new place across the city. Apartment 4B. Cheap and bright. I slept all night."
+  },
+  {
+   "svg_file": "ep12-s5.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "On the second night, I checked my door. The brass plate didn't say 4B anymore. It said 9C."
+  },
+  {
+   "svg_file": "ep12-s6.svg",
+   "move": "in",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "Then my clock turned to three AM. Knock. Knock. Knock."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 12,
+ "total": 12
+}

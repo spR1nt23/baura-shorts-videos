@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#05040b"/>
+<radialGradient id="fl" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#f4ff9a" stop-opacity=".18"/><stop offset="1" stop-color="#f4ff9a" stop-opacity="0"/></radialGradient>
+<rect x="150" y="300" width="780" height="1000" fill="#e8e3c8" stroke="#2a1d16" stroke-width="8"/>
+<rect x="150" y="300" width="780" height="1000" fill="url(#fl)"/>
+<path d="M150 800 H930" stroke="#b8b098" stroke-width="4"/>
+<text x="540" y="480" text-anchor="middle" font-family="Creepster" font-size="120" fill="#7a1010">RULE 4</text>
+<g font-family="Bebas Neue" font-size="84" fill="#2a1d16" text-anchor="middle"><text x="540" y="640">SOMEONE ALWAYS</text><text x="540" y="740">HAS TO BE IN 9C</text></g>
+<g font-family="Bebas Neue" font-size="56" fill="#5a3020" text-anchor="middle" opacity=".85"><text x="540" y="930">IF NOBODY IS...</text><text x="540" y="1010">9C COMES LOOKING</text></g>
+<text x="820" y="1220" text-anchor="end" font-family="Bebas Neue" font-size="80" fill="#2a1d16">— NORA</text>
+</svg>

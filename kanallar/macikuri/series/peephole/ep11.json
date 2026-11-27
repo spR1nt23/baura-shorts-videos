@@ -1,0 +1,61 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 11 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep11-s1.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night I knocked on my own door. Inside, in my own voice, it whispered: Who's there?"
+  },
+  {
+   "svg_file": "ep11-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "I blinked. I was on my couch, inside 9C. The clock said three oh one. We had SWITCHED places."
+  },
+  {
+   "svg_file": "ep11-s3.svg",
+   "move": "left",
+   "fx": [
+    "flicker",
+    "shake"
+   ],
+   "vo": "Then the knocking started. Mrs. Dorsey's voice. Then Nora, crying. Then my MOTHER, calling me sweetheart."
+  },
+  {
+   "svg_file": "ep11-s4.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "But I knew the rules. I didn't answer. I didn't open. When the peephole went DARK, I didn't look."
+  },
+  {
+   "svg_file": "ep11-s5.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "It knocked all night. At five fifty nine, it stopped."
+  },
+  {
+   "svg_file": "ep11-s6.svg",
+   "move": "out",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "A folded note slid under the door, in Nora's handwriting. The note said: Rule FOUR."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 11,
+ "total": 12,
+ "next": "TONIGHT"
+}

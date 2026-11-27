@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0b0910"/>
+<rect x="0" y="300" width="1080" height="560" fill="#4a2420"/>
+<rect x="0" y="840" width="1080" height="24" fill="#d9ffe9" opacity=".35"/>
+<path d="M0 864 L1080 864 L1080 1300 L0 1300Z" fill="#14101a"/>
+<polygon points="200,864 880,864 1000,1300 80,1300" fill="#d9ffe9" opacity=".06"/>
+<g transform="translate(540 1050) rotate(-7)">
+<rect x="-260" y="-150" width="520" height="300" fill="#e8e3c8" stroke="#2a1d16" stroke-width="6"/>
+<path d="M0 -150 V150" stroke="#b8b098" stroke-width="4"/>
+<text x="0" y="40" text-anchor="middle" font-family="Creepster" font-size="96" fill="#7a1010">RULE 4</text>
+</g>
+<text x="540" y="280" text-anchor="middle" font-family="Creepster" font-size="96" fill="#ff3b3b">UNDER THE DOOR</text>
+</svg>

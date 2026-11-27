@@ -33,3 +33,4 @@ Not: Talimat "12 bölüm Pzt–Cmt" der; final 12. bölüm (Cmt 23:00, render so
 - 11-24: Part 3 + Part 4 → macikuri/2026-11-24/ep03.mp4, ep04.mp4
 - 11-25: Part 5 + Part 6 → macikuri/2026-11-25/ep05.mp4, ep06.mp4
 - 11-26: Part 7 + Part 8 → macikuri/2026-11-26/ep07.mp4, ep08.mp4
+- 11-28: Part 11 + Part 12 (FİNAL) → macikuri/2026-11-28/ep11.mp4, ep12.mp4 (ep11 sonu "PART 12 TONIGHT", ep12 sonu "THE END")

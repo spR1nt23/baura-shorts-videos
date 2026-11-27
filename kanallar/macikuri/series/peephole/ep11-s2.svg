@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#101418"/>
+<rect x="0" y="0" width="1080" height="1250" fill="#1b1430" opacity=".55"/>
+<rect x="0" y="1250" width="1080" height="670" fill="#0b0910"/>
+<rect x="640" y="380" width="260" height="380" fill="#05040b" stroke="#2d2a38" stroke-width="14"/>
+<path d="M770 394 V746 M654 570 H886" stroke="#2d2a38" stroke-width="8"/>
+<g transform="translate(330 560)"><circle r="120" fill="#e8e3c8" stroke="#2a1d16" stroke-width="14"/>
+<g stroke="#05040b" stroke-linecap="round"><path d="M0 0 L60 1" stroke-width="14"/><path d="M0 0 L9 -86" stroke-width="10"/></g><circle r="10" fill="#05040b"/></g><path d="M160 1000 Q160 900 240 900 L760 900 Q840 900 840 1000 L840 1180 L160 1180Z" fill="#2d2a38"/>
+<rect x="130" y="1020" width="100" height="190" rx="30" fill="#25212e"/><rect x="770" y="1020" width="100" height="190" rx="30" fill="#25212e"/>
+<rect x="200" y="1030" width="600" height="120" rx="20" fill="#36323f"/><g fill="#3a2e24" stroke="#1a120c" stroke-width="6"><rect x="760" y="1150" width="200" height="150"/><rect x="800" y="1040" width="140" height="110"/></g>
+<path d="M760 1210 H960 M870 1040 V1150" stroke="#1a120c" stroke-width="5"/><g transform="translate(500 1010) scale(0.55)">
+<path d="M-260 420 Q-260 180 -140 130 L150 130 Q260 180 260 420Z" fill="#5a5f6b"/>
+<path d="M-170 150 Q-210 -170 0 -180 Q210 -170 170 150 L120 190 L-120 190Z" fill="#4c515c"/>
+<path d="M-120 0 Q-120 -140 0 -145 Q120 -140 120 0 Q120 140 0 150 Q-120 140 -120 0Z" fill="#c9b8a6"/>
+<path d="M-130 -10 Q-130 -170 0 -170 Q130 -170 130 -10 Q90 -100 0 -95 Q-90 -100 -130 -10Z" fill="#2a1d16"/>
+<circle cx="-35" cy="10" r="12" fill="#05040b"/><circle cx="45" cy="10" r="12" fill="#05040b"/><circle cx="-31" cy="6" r="4" fill="#fff"/><circle cx="49" cy="6" r="4" fill="#fff"/>
+<path d="M-25 80 Q5 70 35 80" stroke="#3a2a22" stroke-width="6" fill="none"/>
+</g><rect x="150" y="820" width="170" height="70" rx="10" fill="#05040b"/><text x="235" y="875" text-anchor="middle" font-family="Bebas Neue" font-size="58" fill="#a8ffd0">03:01</text>
+<text x="540" y="300" text-anchor="middle" font-family="Creepster" font-size="110" fill="#f4ff9a">SWITCHED</text>
+</svg>
