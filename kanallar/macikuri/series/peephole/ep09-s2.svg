@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0b0910"/>
+<rect x="100" y="160" width="880" height="1300" fill="#141a1a"/>
+<path d="M100 1460 L980 1460 L980 1120 L100 1120Z" fill="#1d2622" stroke="#07060c" stroke-width="6"/>
+<g fill="#161d1c" stroke="#07060c" stroke-width="6"><path d="M980 1120 L620 1120 L620 1060 L680 1060 L680 1000 L740 1000 L740 940 L800 940 L800 880 L860 880 L860 820 L980 820Z"/></g>
+<path d="M100 1120 L100 300 L980 300" fill="none" stroke="#07060c" stroke-width="8"/>
+<rect x="190" y="560" width="190" height="190" fill="#2d3236" stroke="#07060c" stroke-width="6"/>
+<text x="285" y="715" text-anchor="middle" font-family="Bebas Neue" font-size="170" fill="#d9ffe9">8</text>
+<rect x="480" y="300" width="120" height="16" fill="#d9ffe9" opacity=".8"/><path d="M480 316 L600 316 L760 1120 L320 1120Z" fill="#a8ffd0" opacity=".07"/>
+<g transform="translate(600 1180) rotate(-12) scale(.75)"><path d="M-260 300 Q-260 120 -140 90 L150 90 Q260 120 260 300Z" fill="#5a5f6b"/><path d="M-170 110 Q-210 -170 0 -180 Q210 -170 170 110 L120 150 L-120 150Z" fill="#4c515c"/><path d="M-120 0 Q-120 -140 0 -145 Q120 -140 120 0 Q120 140 0 150 Q-120 140 -120 0Z" fill="#c9b8a6"/><path d="M-130 -10 Q-130 -170 0 -170 Q130 -170 130 -10 Q90 -100 0 -95 Q-90 -100 -130 -10Z" fill="#2a1d16"/><path d="M-60 20 L-20 20 M30 20 L70 20" stroke="#05040b" stroke-width="9" stroke-linecap="round"/></g>
+<text x="540" y="260" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a">IT LET ME GO</text>
+</svg>

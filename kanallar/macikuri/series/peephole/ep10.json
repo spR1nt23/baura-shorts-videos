@@ -1,0 +1,59 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 10 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep09-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night I remembered. On my first night, I whispered Who's there. It has had my voice ever since."
+  },
+  {
+   "svg_file": "ep10-s2.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "Mrs. Dorsey took out her knitting. There is one way back, she said. At three AM, YOU knock. Three times."
+  },
+  {
+   "svg_file": "ep10-s3.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "If the thing inside answers, you trade places. You go in, it goes out. But you only get ONE try."
+  },
+  {
+   "svg_file": "ep10-s4.svg",
+   "move": "up",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "So I climbed. Six. Seven. Eight. The stairs went on to NINE, like they knew. My phone said two fifty nine."
+  },
+  {
+   "svg_file": "ep10-s5.svg",
+   "move": "in",
+   "fx": [
+    "shake"
+   ],
+   "vo": "At three, I raised my fist. Knock. Knock. Knock. Nothing. Then something soft walked up to the other side."
+  },
+  {
+   "svg_file": "ep10-s6.svg",
+   "move": "out",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "From inside, in my own voice, it whispered: Who's THERE?"
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 10,
+ "total": 12
+}

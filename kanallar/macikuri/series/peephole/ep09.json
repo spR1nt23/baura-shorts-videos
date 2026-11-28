@@ -1,0 +1,59 @@
+{
+ "format": "short",
+ "voice": "bm_george",
+ "speed": 0.92,
+ "title": "The Peephole — Part 9 😨 #scarystories #horror",
+ "description": "",
+ "scenes": [
+  {
+   "svg_file": "ep08-s6.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "Last night I looked through my own peephole. The me on the couch opened its eyes. They were red."
+  },
+  {
+   "svg_file": "ep09-s2.svg",
+   "move": "down",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "I ran for the stairs. This time, they let me go. I woke up on the eighth floor landing, under a buzzing light."
+  },
+  {
+   "svg_file": "ep09-s3.svg",
+   "move": "in",
+   "fx": [],
+   "vo": "Someone was shaking me. Mrs. Dorsey. Green cardigan, suitcase in her hand. She had come back EARLY."
+  },
+  {
+   "svg_file": "ep09-s4.svg",
+   "move": "in",
+   "fx": [
+    "flicker"
+   ],
+   "vo": "It doesn't want your door, she said. It wants your VOICE. Then it wears your face, and locks you outside."
+  },
+  {
+   "svg_file": "ep09-s5.svg",
+   "move": "in",
+   "fx": [
+    "static"
+   ],
+   "vo": "But I never answered it, I said. Then I remembered the first night. Half asleep. My lips against the DOOR."
+  },
+  {
+   "svg_file": "ep09-s6.svg",
+   "move": "out",
+   "fx": [
+    "red",
+    "shake"
+   ],
+   "vo": "On my very first night, I had whispered Who's there? It has had my VOICE since then."
+  }
+ ],
+ "series": "The Peephole",
+ "episode": 9,
+ "total": 12
+}

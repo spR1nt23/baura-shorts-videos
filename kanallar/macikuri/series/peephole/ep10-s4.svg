@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+<defs><linearGradient id="up" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#a8ffd0" stop-opacity=".18"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient></defs>
+<rect width="1080" height="1920" fill="#0b0910"/>
+<rect x="140" y="120" width="800" height="1320" fill="#141a1a"/>
+<g fill="#1d2622" stroke="#07060c" stroke-width="6">
+<path d="M140 1440 L540 1440 L540 1380 L600 1380 L600 1320 L660 1320 L660 1260 L720 1260 L720 1200 L780 1200 L780 1140 L840 1140 L840 1080 L940 1080 L940 1440Z"/>
+<path d="M940 1000 L540 1000 L540 940 L480 940 L480 880 L420 880 L420 820 L360 820 L360 760 L300 760 L300 700 L140 700 L140 1000Z" fill="#161d1c"/>
+</g>
+<rect x="140" y="120" width="800" height="1320" fill="url(#up)"/>
+<rect x="190" y="420" width="170" height="170" fill="#2d3236" stroke="#07060c" stroke-width="6"/>
+<text x="275" y="560" text-anchor="middle" font-family="Bebas Neue" font-size="150" fill="#ff3b3b">9</text>
+<g transform="translate(700 1040) scale(.55)"><path d="M-110 300 Q-120 60 -60 20 L60 20 Q120 60 110 300Z" fill="#5a5f6b"/><ellipse cx="0" cy="-50" rx="70" ry="80" fill="#2a1d16"/><path d="M-70 -40 Q-80 -120 0 -130 Q80 -120 70 -40 Q60 30 0 40 Q-60 30 -70 -40Z" fill="#5a5f6b"/><path d="M-60 300 L-60 420 M60 300 L60 420" stroke="#2d2a38" stroke-width="40"/></g>
+<rect x="600" y="400" width="230" height="130" rx="18" fill="#05040b" stroke="#a8ffd0" stroke-width="5"/><text x="715" y="500" text-anchor="middle" font-family="Bebas Neue" font-size="100" fill="#a8ffd0">2:59</text>
+<text x="540" y="260" text-anchor="middle" font-family="Creepster" font-size="96" fill="#f4ff9a">BACK TO NINE</text>
+</svg>
